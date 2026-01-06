@@ -76,8 +76,6 @@ A realistic dataset was created from scratch using a **designed relational model
 
 ## Screenshots
 
-> Add your screenshot here:
-
 ![Quote Output](assets/quote_output_screenshot.png)
 
 ---
@@ -89,14 +87,6 @@ A realistic dataset was created from scratch using a **designed relational model
 3. Ensure the import sheets are loaded (Parts / Bundles / BundleItems / PriceList / Customers / Employees)
 4. Use `Catalog_Quote` to add items and generate the quote
 5. Export to PDF / Excel
-
----
-
-## Next steps
-
-- Connect this pricing logic to **Power BI dashboards** (sales, margins, bundle performance)
-- Add category filter buttons in catalog
-- Add multi-quote management (quote history, versions, customer CRM-like view)
 
 ---
 
