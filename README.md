@@ -76,8 +76,6 @@ A realistic dataset was created from scratch using a **designed relational model
 
 ## Screenshots
 
-> Add your screenshot here:
-
 ![Quote Output](assets/quote_output_screenshot.png)
 
 ---
