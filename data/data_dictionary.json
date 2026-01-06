@@ -1,0 +1,82 @@
+{
+  "manufacturing_pricing": {
+    "parts.csv": [
+      "part_id",
+      "part_type",
+      "material",
+      "part_name",
+      "spec",
+      "uom",
+      "unit_cost_usd",
+      "supplier",
+      "lead_time_days"
+    ],
+    "products_finished_goods.csv": [
+      "product_id",
+      "category",
+      "style",
+      "finish",
+      "size_class",
+      "main_material",
+      "active_flag",
+      "launch_year",
+      "product_name"
+    ],
+    "bill_of_materials.csv": [
+      "product_id",
+      "part_id",
+      "quantity"
+    ],
+    "bundles.csv": [
+      "bundle_id",
+      "bundle_type",
+      "bundle_name",
+      "active_flag"
+    ],
+    "bundle_items.csv": [
+      "bundle_id",
+      "product_id",
+      "quantity"
+    ],
+    "pricelist.csv": [
+      "sku_id",
+      "sku_type",
+      "cost_usd",
+      "margin_pct",
+      "list_price_usd",
+      "currency"
+    ]
+  },
+  "sales": {
+    "customers.csv": [
+      "customer_id",
+      "customer_name",
+      "country",
+      "segment",
+      "industry",
+      "active_flag"
+    ],
+    "employees_sales.csv": [
+      "employee_id",
+      "employee_name",
+      "region",
+      "title",
+      "hire_date"
+    ],
+    "sales_orders.csv": [
+      "order_id",
+      "order_date",
+      "customer_id",
+      "sales_manager_id",
+      "status",
+      "channel"
+    ],
+    "order_details.csv": [
+      "order_id",
+      "sku_id",
+      "sku_type",
+      "quantity",
+      "unit_price_usd"
+    ]
+  }
+}

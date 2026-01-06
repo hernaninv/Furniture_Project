@@ -1,0 +1,36 @@
+employee_id,employee_name,region,title,hire_date
+EMP-0001,Robin King,APAC,Sales Manager,2021-12-13
+EMP-0002,Rowan Thomas,LATAM,Sales Manager,2025-02-01
+EMP-0003,Pat Harris,,Account Executive,2025-09-21
+EMP-0004,Casey Johnson,APAC,Account Executive,2021-01-02
+EMP-0005,Jesse Martinez,APAC,Regional Sales Manager,2019-10-20
+EMP-0006,Taylor Walker,APAC,Sales Manager,2023-03-22
+EMP-0007,Dana Jackson,,Sales Manager,2023-09-02
+EMP-0008,Jordan Miller,,Sales Manager,2024-06-09
+EMP-0009,Jamie Jackson,,Sales Manager,2023-06-30
+EMP-0010,Pat Lewis,LATAM,Regional Sales Manager,2024-01-04
+EMP-0011,Reese White,EMEA,Sales Manager,2025-05-27
+EMP-0012,Alex Clark,,Sales Manager,2025-05-27
+EMP-0013,Hayden Harris,LATAM,Account Executive,2025-06-25
+EMP-0014,Taylor Green,LATAM,Sales Manager,2025-01-07
+EMP-0015,Dana Allen,LATAM,Regional Sales Manager,2024-01-17
+EMP-0016,Jesse Johnson,APAC,Sales Manager,2025-06-04
+EMP-0017,Jamie Anderson,LATAM,Sales Manager,2019-02-03
+EMP-0018,Rowan Johnson,APAC,Account Executive,2019-03-09
+EMP-0019,Skyler Young,,Sales Manager,2024-07-30
+EMP-0020,Reese Brown,,Regional Sales Manager,2022-01-22
+EMP-0021,Riley Smith,,Sales Manager,2024-03-26
+EMP-0022,Sam White,,Regional Sales Manager,2022-05-24
+EMP-0023,Jesse Scott,LATAM,Sales Manager,2025-04-22
+EMP-0024,Lee Smith,APAC,Regional Sales Manager,2019-06-16
+EMP-0025,Casey Johnson,APAC,Sales Manager,2023-09-18
+EMP-0026,Pat Allen,EMEA,Regional Sales Manager,2019-01-15
+EMP-0027,Robin Johnson,LATAM,Account Executive,2020-01-14
+EMP-0028,Jamie Jackson,,Sales Manager,2024-10-23
+EMP-0029,Skyler Thomas,APAC,Regional Sales Manager,2021-01-17
+EMP-0030,Rowan Brown,APAC,Sales Manager,2025-11-17
+EMP-0031,Reese White,,Sales Manager,2021-06-09
+EMP-0032,Robin Martinez,,Sales Manager,2024-06-27
+EMP-0033,Jordan Davis,LATAM,Regional Sales Manager,2025-09-19
+EMP-0034,Avery Harris,LATAM,Sales Manager,2021-03-17
+EMP-0035,Drew Davis,APAC,Account Executive,2025-11-04

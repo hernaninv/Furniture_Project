@@ -1,0 +1,1201 @@
+part_id,part_type,material,part_name,spec,uom,unit_cost_usd,supplier,lead_time_days
+PRT-000001,Nut,Stainless Steel,Stainless Steel Nut M8,Dia=8mm,EA,0.03,Supplier FastenPro,30
+PRT-000002,Panel,MDF,MDF Panel 1200x120x15mm,L=1200mm;W=120mm;T=15mm,EA,2.01,Supplier HardwareHouse,10
+PRT-000003,Screw,Steel,Steel Screw M6x60,Dia=6mm;Len=60mm,EA,0.09,Supplier HardwareHouse,22
+PRT-000004,Glue Bottle,Glue,Glue Glue Bottle 1L,Volume=1L,EA,1.51,Supplier EcoMaterials,7
+PRT-000005,Nut,Steel,Steel Nut M3,Dia=3mm,EA,0.01,Supplier EcoMaterials,32
+PRT-000006,Nut,Steel,Steel Nut M5,Dia=5mm,EA,0.02,Supplier TimberCo,8
+PRT-000007,Hinge,Steel,Steel Hinge,,EA,4.59,Supplier GlassLab,2
+PRT-000008,Slider,Steel,Steel Slider,,EA,7.67,Supplier PrimeSupply,31
+PRT-000009,Screw,Stainless Steel,Stainless Steel Screw M6x30,Dia=6mm;Len=30mm,EA,0.05,Supplier FastenPro,19
+PRT-000010,Screw,Stainless Steel,Stainless Steel Screw M5x25,Dia=5mm;Len=25mm,EA,0.05,Supplier FinishesPlus,14
+PRT-000011,Drawer Front,Pine Wood,Pine Wood Drawer Front 1200x100x50mm,L=1200mm;W=100mm;T=50mm,EA,4.04,Supplier GlassLab,21
+PRT-000012,Washer,Steel,Steel Washer M4,Dia=4mm,EA,0.01,Supplier TimberCo,15
+PRT-000013,Panel,Bamboo,Bamboo Panel 500x200x15mm,L=500mm;W=200mm;T=15mm,EA,1.94,Supplier TimberCo,23
+PRT-000014,Beam,MDF,MDF Beam 1600x500x20mm,L=1600mm;W=500mm;T=20mm,EA,2.98,Supplier UpholsteryHub,8
+PRT-000015,Fabric Cover,Fabric,Fabric Fabric Cover 800x900mm,L=800mm;W=900mm,EA,5.27,Supplier UpholsteryHub,20
+PRT-000016,Backboard,Oak Wood,Oak Wood Backboard 500x40x40mm,L=500mm;W=40mm;T=40mm,EA,3.76,Supplier HardwareHouse,20
+PRT-000017,Drawer Front,Birch Plywood,Birch Plywood Drawer Front 200x100x8mm,L=200mm;W=100mm;T=8mm,EA,1.81,Supplier GlassLab,33
+PRT-000018,Washer,Steel,Steel Washer M6,Dia=6mm,EA,0.01,Supplier TimberCo,21
+PRT-000019,Hinge,Stainless Steel,Stainless Steel Hinge,,EA,8.53,Supplier UpholsteryHub,27
+PRT-000020,Glass Top,Tempered Glass,Tempered Glass Glass Top 800x800mm,L=800mm;W=800mm,EA,23.65,Supplier UpholsteryHub,26
+PRT-000021,Rail,Pine Wood,Pine Wood Rail 700x300x8mm,L=700mm;W=300mm;T=8mm,EA,2.24,Supplier GlassLab,28
+PRT-000022,Screw,Stainless Steel,Stainless Steel Screw M4x16,Dia=4mm;Len=16mm,EA,0.02,Supplier MetalWorks,7
+PRT-000023,Drawer Front,Bamboo,Bamboo Drawer Front 900x100x15mm,L=900mm;W=100mm;T=15mm,EA,2.34,Supplier FastenPro,16
+PRT-000024,Varnish Can,Varnish,Varnish Varnish Can 1L,Volume=1L,EA,5.67,Supplier PrimeSupply,19
+PRT-000025,Glass Top,Tempered Glass,Tempered Glass Glass Top 1400x700mm,L=1400mm;W=700mm,EA,26.97,Supplier PrimeSupply,30
+PRT-000026,Backboard,Bamboo,Bamboo Backboard 300x120x20mm,L=300mm;W=120mm;T=20mm,EA,3.22,Supplier HardwareHouse,10
+PRT-000027,Rail,Birch Plywood,Birch Plywood Rail 1000x200x50mm,L=1000mm;W=200mm;T=50mm,EA,4.33,Supplier FinishesPlus,15
+PRT-000028,Leg,Pine Wood,Pine Wood Leg 500x500x30mm,L=500mm;W=500mm;T=30mm,EA,3.55,Supplier PrimeSupply,17
+PRT-000029,Bolt,Steel,Steel Bolt M5x60,Dia=5mm;Len=60mm,EA,0.2,Supplier FastenPro,22
+PRT-000030,Nut,Steel,Steel Nut M3,Dia=3mm,EA,0.02,Supplier FinishesPlus,28
+PRT-000031,Handle,Steel,Steel Handle,,EA,4.67,Supplier FinishesPlus,28
+PRT-000032,Feet Pad,Aluminum,Aluminum Feet Pad,,EA,2.72,Supplier FastenPro,3
+PRT-000033,Panel,Pine Wood,Pine Wood Panel 500x80x12mm,L=500mm;W=80mm;T=12mm,EA,2.05,Supplier FastenPro,3
+PRT-000034,Bolt,Steel,Steel Bolt M6x10,Dia=6mm;Len=10mm,EA,0.07,Supplier UpholsteryHub,32
+PRT-000035,Screw,Stainless Steel,Stainless Steel Screw M6x30,Dia=6mm;Len=30mm,EA,0.06,Supplier HardwareHouse,20
+PRT-000036,Panel,MDF,MDF Panel 1800x400x8mm,L=1800mm;W=400mm;T=8mm,EA,1.48,Supplier EcoMaterials,12
+PRT-000037,Panel,Birch Plywood,Birch Plywood Panel 1200x100x40mm,L=1200mm;W=100mm;T=40mm,EA,3.64,Supplier PlastiCraft,6
+PRT-000038,Bracket,Polypropylene,Polypropylene Bracket,,EA,1.79,Supplier UpholsteryHub,20
+PRT-000039,Washer,Steel,Steel Washer M3,Dia=3mm,EA,0.01,Supplier PrimeSupply,29
+PRT-000040,Rail,Oak Wood,Oak Wood Rail 1000x400x40mm,L=1000mm;W=400mm;T=40mm,EA,7.01,Supplier PlastiCraft,2
+PRT-000041,Washer,Steel,Steel Washer M6,Dia=6mm,EA,0.02,Supplier MetalWorks,10
+PRT-000042,Screw,Steel,Steel Screw M4x20,Dia=4mm;Len=20mm,EA,0.04,Supplier MetalWorks,23
+PRT-000043,Slider,Stainless Steel,Stainless Steel Slider,,EA,4.19,Supplier FinishesPlus,19
+PRT-000044,Leg,Pine Wood,Pine Wood Leg 600x120x12mm,L=600mm;W=120mm;T=12mm,EA,2.26,Supplier HardwareHouse,21
+PRT-000045,Shelf,Pine Wood,Pine Wood Shelf 1200x60x12mm,L=1200mm;W=60mm;T=12mm,EA,1.93,Supplier FinishesPlus,4
+PRT-000046,Glass Top,Tempered Glass,Tempered Glass Glass Top 800x500mm,L=800mm;W=500mm,EA,22.04,Supplier GlassLab,22
+PRT-000047,Leg,Oak Wood,Oak Wood Leg 1400x100x25mm,L=1400mm;W=100mm;T=25mm,EA,8.13,Supplier FinishesPlus,26
+PRT-000048,Bracket,Polypropylene,Polypropylene Bracket,,EA,3.13,Supplier PlastiCraft,14
+PRT-000049,Panel,Walnut Wood,Walnut Wood Panel 1200x80x15mm,L=1200mm;W=80mm;T=15mm,EA,5.33,Supplier FastenPro,26
+PRT-000050,Glass Top,Tempered Glass,Tempered Glass Glass Top 800x500mm,L=800mm;W=500mm,EA,16.01,Supplier GlassLab,23
+PRT-000051,Handle,Acrylic,Acrylic Handle,,EA,9.05,Supplier HardwareHouse,29
+PRT-000052,Bracket,Stainless Steel,Stainless Steel Bracket,,EA,6.78,Supplier MetalWorks,8
+PRT-000053,Bracket,ABS Plastic,ABS Plastic Bracket,,EA,5.79,Supplier FastenPro,16
+PRT-000054,Backboard,Oak Wood,Oak Wood Backboard 200x400x20mm,L=200mm;W=400mm;T=20mm,EA,3.41,Supplier PrimeSupply,20
+PRT-000055,Handle,Stainless Steel,Stainless Steel Handle,,EA,12.16,Supplier FastenPro,32
+PRT-000056,Backboard,Pine Wood,Pine Wood Backboard 1200x800x12mm,L=1200mm;W=800mm;T=12mm,EA,2.25,Supplier PrimeSupply,29
+PRT-000057,Fabric Cover,Fabric,Fabric Fabric Cover 800x900mm,L=800mm;W=900mm,EA,5.06,Supplier UpholsteryHub,20
+PRT-000058,Screw,Stainless Steel,Stainless Steel Screw M4x50,Dia=4mm;Len=50mm,EA,0.2,Supplier EcoMaterials,27
+PRT-000059,Panel,Oak Wood,Oak Wood Panel 200x100x15mm,L=200mm;W=100mm;T=15mm,EA,5.07,Supplier FastenPro,17
+PRT-000060,Panel,Bamboo,Bamboo Panel 1400x500x15mm,L=1400mm;W=500mm;T=15mm,EA,4.87,Supplier HardwareHouse,9
+PRT-000061,Beam,Pine Wood,Pine Wood Beam 800x60x12mm,L=800mm;W=60mm;T=12mm,EA,1.36,Supplier FinishesPlus,17
+PRT-000062,Leg,Birch Plywood,Birch Plywood Leg 600x150x15mm,L=600mm;W=150mm;T=15mm,EA,3.0,Supplier HardwareHouse,22
+PRT-000063,Screw,Steel,Steel Screw M8x40,Dia=8mm;Len=40mm,EA,0.12,Supplier FastenPro,6
+PRT-000064,Beam,Bamboo,Bamboo Beam 1600x80x50mm,L=1600mm;W=80mm;T=50mm,EA,4.64,Supplier HardwareHouse,18
+PRT-000065,Screw,Brass,Brass Screw M3x20,Dia=3mm;Len=20mm,EA,0.16,Supplier PrimeSupply,4
+PRT-000066,Shelf,Oak Wood,Oak Wood Shelf 1400x300x30mm,L=1400mm;W=300mm;T=30mm,EA,7.17,Supplier EcoMaterials,25
+PRT-000067,Slider,ABS Plastic,ABS Plastic Slider,,EA,8.76,Supplier PlastiCraft,11
+PRT-000068,Beam,Birch Plywood,Birch Plywood Beam 400x500x20mm,L=400mm;W=500mm;T=20mm,EA,2.09,Supplier EcoMaterials,32
+PRT-000069,Beam,Walnut Wood,Walnut Wood Beam 300x600x20mm,L=300mm;W=600mm;T=20mm,EA,6.11,Supplier MetalWorks,11
+PRT-000070,Rail,Birch Plywood,Birch Plywood Rail 1000x600x18mm,L=1000mm;W=600mm;T=18mm,EA,6.01,Supplier TimberCo,24
+PRT-000071,Slider,Steel,Steel Slider,,EA,10.55,Supplier GlassLab,8
+PRT-000072,Bolt,Stainless Steel,Stainless Steel Bolt M3x30,Dia=3mm;Len=30mm,EA,0.09,Supplier FinishesPlus,33
+PRT-000073,Screw,Steel,Steel Screw M8x25,Dia=8mm;Len=25mm,EA,0.1,Supplier PrimeSupply,4
+PRT-000074,Bolt,Steel,Steel Bolt M10x10,Dia=10mm;Len=10mm,EA,0.06,Supplier MetalWorks,22
+PRT-000075,Bolt,Steel,Steel Bolt M6x16,Dia=6mm;Len=16mm,EA,0.05,Supplier FastenPro,30
+PRT-000076,Leg,Oak Wood,Oak Wood Leg 1200x200x20mm,L=1200mm;W=200mm;T=20mm,EA,7.05,Supplier MetalWorks,17
+PRT-000077,Nut,Stainless Steel,Stainless Steel Nut M6,Dia=6mm,EA,0.02,Supplier MetalWorks,20
+PRT-000078,Backboard,Birch Plywood,Birch Plywood Backboard 700x120x25mm,L=700mm;W=120mm;T=25mm,EA,2.46,Supplier TimberCo,13
+PRT-000079,Slider,Stainless Steel,Stainless Steel Slider,,EA,5.2,Supplier TimberCo,27
+PRT-000080,Screw,Steel,Steel Screw M3x20,Dia=3mm;Len=20mm,EA,0.05,Supplier FastenPro,21
+PRT-000081,Bolt,Steel,Steel Bolt M6x25,Dia=6mm;Len=25mm,EA,0.07,Supplier MetalWorks,8
+PRT-000082,Shelf,Pine Wood,Pine Wood Shelf 800x800x18mm,L=800mm;W=800mm;T=18mm,EA,2.46,Supplier PrimeSupply,14
+PRT-000083,Bolt,Brass,Brass Bolt M8x20,Dia=8mm;Len=20mm,EA,0.21,Supplier PlastiCraft,31
+PRT-000084,Screw,Steel,Steel Screw M3x40,Dia=3mm;Len=40mm,EA,0.03,Supplier UpholsteryHub,18
+PRT-000085,Leg,Oak Wood,Oak Wood Leg 1200x400x18mm,L=1200mm;W=400mm;T=18mm,EA,6.3,Supplier FinishesPlus,17
+PRT-000086,Backboard,Walnut Wood,Walnut Wood Backboard 500x100x25mm,L=500mm;W=100mm;T=25mm,EA,4.27,Supplier UpholsteryHub,3
+PRT-000087,Handle,Polypropylene,Polypropylene Handle,,EA,5.09,Supplier FastenPro,4
+PRT-000088,Hinge,Steel,Steel Hinge,,EA,5.52,Supplier PlastiCraft,14
+PRT-000089,Washer,Steel,Steel Washer M5,Dia=5mm,EA,0.01,Supplier MetalWorks,8
+PRT-000090,Paint Can,Paint,Paint Paint Can 1L,Volume=1L,EA,4.35,Supplier EcoMaterials,12
+PRT-000091,Shelf,Pine Wood,Pine Wood Shelf 700x300x25mm,L=700mm;W=300mm;T=25mm,EA,2.91,Supplier MetalWorks,6
+PRT-000092,Drawer Front,MDF,MDF Drawer Front 800x500x25mm,L=800mm;W=500mm;T=25mm,EA,2.6,Supplier EcoMaterials,27
+PRT-000093,Handle,Steel,Steel Handle,,EA,6.04,Supplier PrimeSupply,16
+PRT-000094,Screw,Steel,Steel Screw M5x30,Dia=5mm;Len=30mm,EA,0.06,Supplier EcoMaterials,6
+PRT-000095,Beam,Pine Wood,Pine Wood Beam 1800x40x12mm,L=1800mm;W=40mm;T=12mm,EA,1.8,Supplier PrimeSupply,17
+PRT-000096,Panel,Oak Wood,Oak Wood Panel 400x80x30mm,L=400mm;W=80mm;T=30mm,EA,4.43,Supplier GlassLab,22
+PRT-000097,Backboard,Oak Wood,Oak Wood Backboard 1200x60x40mm,L=1200mm;W=60mm;T=40mm,EA,3.41,Supplier UpholsteryHub,24
+PRT-000098,Panel,Birch Plywood,Birch Plywood Panel 900x300x15mm,L=900mm;W=300mm;T=15mm,EA,4.22,Supplier TimberCo,31
+PRT-000099,Beam,Oak Wood,Oak Wood Beam 200x400x40mm,L=200mm;W=400mm;T=40mm,EA,2.81,Supplier PlastiCraft,22
+PRT-000100,Washer,Steel,Steel Washer M6,Dia=6mm,EA,0.03,Supplier HardwareHouse,13
+PRT-000101,Screw,Steel,Steel Screw M8x30,Dia=8mm;Len=30mm,EA,0.09,Supplier HardwareHouse,30
+PRT-000102,Handle,Steel,Steel Handle,,EA,4.14,Supplier GlassLab,6
+PRT-000103,Leg,Oak Wood,Oak Wood Leg 800x500x15mm,L=800mm;W=500mm;T=15mm,EA,6.64,Supplier HardwareHouse,24
+PRT-000104,Caster Wheel,Stainless Steel,Stainless Steel Caster Wheel,,EA,10.01,Supplier TimberCo,27
+PRT-000105,Shelf,Pine Wood,Pine Wood Shelf 1200x200x15mm,L=1200mm;W=200mm;T=15mm,EA,2.1,Supplier HardwareHouse,32
+PRT-000106,Shelf,Birch Plywood,Birch Plywood Shelf 400x300x12mm,L=400mm;W=300mm;T=12mm,EA,2.7,Supplier PlastiCraft,3
+PRT-000107,Bolt,Stainless Steel,Stainless Steel Bolt M3x20,Dia=3mm;Len=20mm,EA,0.09,Supplier EcoMaterials,22
+PRT-000108,Shelf,Birch Plywood,Birch Plywood Shelf 800x400x15mm,L=800mm;W=400mm;T=15mm,EA,3.37,Supplier PrimeSupply,22
+PRT-000109,Handle,Stainless Steel,Stainless Steel Handle,,EA,15.9,Supplier MetalWorks,25
+PRT-000110,Backboard,Pine Wood,Pine Wood Backboard 1800x200x15mm,L=1800mm;W=200mm;T=15mm,EA,1.67,Supplier GlassLab,11
+PRT-000111,Screw,Stainless Steel,Stainless Steel Screw M5x20,Dia=5mm;Len=20mm,EA,0.08,Supplier UpholsteryHub,4
+PRT-000112,Leg,Pine Wood,Pine Wood Leg 400x40x18mm,L=400mm;W=40mm;T=18mm,EA,2.26,Supplier PlastiCraft,26
+PRT-000113,Fabric Cover,Fabric,Fabric Fabric Cover 1200x800mm,L=1200mm;W=800mm,EA,6.06,Supplier PlastiCraft,6
+PRT-000114,Feet Pad,Aluminum,Aluminum Feet Pad,,EA,2.57,Supplier PlastiCraft,4
+PRT-000115,Bolt,Stainless Steel,Stainless Steel Bolt M8x10,Dia=8mm;Len=10mm,EA,0.1,Supplier FastenPro,14
+PRT-000116,Bracket,Steel,Steel Bracket,,EA,4.63,Supplier FastenPro,28
+PRT-000117,Screw,Steel,Steel Screw M10x20,Dia=10mm;Len=20mm,EA,0.05,Supplier HardwareHouse,14
+PRT-000118,Beam,Pine Wood,Pine Wood Beam 900x600x20mm,L=900mm;W=600mm;T=20mm,EA,2.71,Supplier HardwareHouse,12
+PRT-000119,Bolt,Stainless Steel,Stainless Steel Bolt M6x40,Dia=6mm;Len=40mm,EA,0.17,Supplier GlassLab,8
+PRT-000120,Bolt,Steel,Steel Bolt M4x30,Dia=4mm;Len=30mm,EA,0.12,Supplier UpholsteryHub,6
+PRT-000121,Bolt,Stainless Steel,Stainless Steel Bolt M5x20,Dia=5mm;Len=20mm,EA,0.16,Supplier FinishesPlus,19
+PRT-000122,Hinge,Aluminum,Aluminum Hinge,,EA,20.9,Supplier EcoMaterials,28
+PRT-000123,Fabric Cover,Fabric,Fabric Fabric Cover 1000x700mm,L=1000mm;W=700mm,EA,6.93,Supplier MetalWorks,32
+PRT-000124,Panel,Oak Wood,Oak Wood Panel 500x120x40mm,L=500mm;W=120mm;T=40mm,EA,3.52,Supplier HardwareHouse,7
+PRT-000125,Screw,Steel,Steel Screw M8x25,Dia=8mm;Len=25mm,EA,0.08,Supplier EcoMaterials,13
+PRT-000126,Varnish Can,Varnish,Varnish Varnish Can 1L,Volume=1L,EA,5.79,Supplier EcoMaterials,5
+PRT-000127,Rail,Oak Wood,Oak Wood Rail 1200x40x40mm,L=1200mm;W=40mm;T=40mm,EA,4.85,Supplier GlassLab,17
+PRT-000128,Washer,Steel,Steel Washer M4,Dia=4mm,EA,0.01,Supplier PrimeSupply,3
+PRT-000129,Leg,Pine Wood,Pine Wood Leg 800x100x20mm,L=800mm;W=100mm;T=20mm,EA,2.8,Supplier PlastiCraft,3
+PRT-000130,Drawer Front,Birch Plywood,Birch Plywood Drawer Front 500x120x25mm,L=500mm;W=120mm;T=25mm,EA,2.72,Supplier FastenPro,31
+PRT-000131,Fabric Cover,Fabric,Fabric Fabric Cover 1200x700mm,L=1200mm;W=700mm,EA,5.75,Supplier PrimeSupply,16
+PRT-000132,Nut,Brass,Brass Nut M4,Dia=4mm,EA,0.04,Supplier EcoMaterials,6
+PRT-000133,Varnish Can,Varnish,Varnish Varnish Can 1L,Volume=1L,EA,4.86,Supplier FastenPro,6
+PRT-000134,Glass Top,Tempered Glass,Tempered Glass Glass Top 800x400mm,L=800mm;W=400mm,EA,14.02,Supplier TimberCo,32
+PRT-000135,Panel,MDF,MDF Panel 900x40x20mm,L=900mm;W=40mm;T=20mm,EA,1.55,Supplier EcoMaterials,20
+PRT-000136,Handle,ABS Plastic,ABS Plastic Handle,,EA,1.54,Supplier FinishesPlus,7
+PRT-000137,Rail,Oak Wood,Oak Wood Rail 1200x400x50mm,L=1200mm;W=400mm;T=50mm,EA,10.31,Supplier FastenPro,16
+PRT-000138,Foam Insert,Foam,Foam Foam Insert 1600x100x50mm,L=1600mm;W=100mm;T=50mm,EA,1.42,Supplier GlassLab,16
+PRT-000139,Backboard,Oak Wood,Oak Wood Backboard 400x40x25mm,L=400mm;W=40mm;T=25mm,EA,4.21,Supplier GlassLab,24
+PRT-000140,Rail,Pine Wood,Pine Wood Rail 500x80x15mm,L=500mm;W=80mm;T=15mm,EA,2.15,Supplier FinishesPlus,14
+PRT-000141,Drawer Front,Birch Plywood,Birch Plywood Drawer Front 500x60x25mm,L=500mm;W=60mm;T=25mm,EA,2.82,Supplier PlastiCraft,11
+PRT-000142,Washer,Steel,Steel Washer M5,Dia=5mm,EA,0.01,Supplier FinishesPlus,13
+PRT-000143,Nut,Steel,Steel Nut M4,Dia=4mm,EA,0.03,Supplier UpholsteryHub,34
+PRT-000144,Leg,Pine Wood,Pine Wood Leg 500x800x15mm,L=500mm;W=800mm;T=15mm,EA,1.79,Supplier TimberCo,34
+PRT-000145,Foam Insert,Foam,Foam Foam Insert 200x150x60mm,L=200mm;W=150mm;T=60mm,EA,3.16,Supplier UpholsteryHub,12
+PRT-000146,Panel,Pine Wood,Pine Wood Panel 900x40x15mm,L=900mm;W=40mm;T=15mm,EA,1.53,Supplier UpholsteryHub,4
+PRT-000147,Panel,Bamboo,Bamboo Panel 800x80x25mm,L=800mm;W=80mm;T=25mm,EA,3.1,Supplier UpholsteryHub,10
+PRT-000148,Paint Can,Paint,Paint Paint Can 1L,Volume=1L,EA,3.97,Supplier MetalWorks,22
+PRT-000149,Panel,Oak Wood,Oak Wood Panel 200x80x8mm,L=200mm;W=80mm;T=8mm,EA,3.65,Supplier FinishesPlus,22
+PRT-000150,Panel,Pine Wood,Pine Wood Panel 1600x100x18mm,L=1600mm;W=100mm;T=18mm,EA,3.69,Supplier FinishesPlus,28
+PRT-000151,Washer,Steel,Steel Washer M6,Dia=6mm,EA,0.02,Supplier FastenPro,21
+PRT-000152,Foam Insert,Foam,Foam Foam Insert 1200x200x30mm,L=1200mm;W=200mm;T=30mm,EA,2.47,Supplier PlastiCraft,4
+PRT-000153,Beam,Birch Plywood,Birch Plywood Beam 1200x300x18mm,L=1200mm;W=300mm;T=18mm,EA,2.62,Supplier FinishesPlus,3
+PRT-000154,Caster Wheel,Acrylic,Acrylic Caster Wheel,,EA,20.75,Supplier PrimeSupply,30
+PRT-000155,Backboard,Oak Wood,Oak Wood Backboard 800x40x18mm,L=800mm;W=40mm;T=18mm,EA,2.25,Supplier FastenPro,25
+PRT-000156,Screw,Stainless Steel,Stainless Steel Screw M8x20,Dia=8mm;Len=20mm,EA,0.09,Supplier EcoMaterials,32
+PRT-000157,Screw,Steel,Steel Screw M3x60,Dia=3mm;Len=60mm,EA,0.09,Supplier HardwareHouse,3
+PRT-000158,Screw,Steel,Steel Screw M5x50,Dia=5mm;Len=50mm,EA,0.06,Supplier FastenPro,6
+PRT-000159,Beam,Oak Wood,Oak Wood Beam 1400x200x25mm,L=1400mm;W=200mm;T=25mm,EA,4.27,Supplier MetalWorks,8
+PRT-000160,Rail,Pine Wood,Pine Wood Rail 1000x80x18mm,L=1000mm;W=80mm;T=18mm,EA,2.91,Supplier PlastiCraft,19
+PRT-000161,Panel,Oak Wood,Oak Wood Panel 1000x40x15mm,L=1000mm;W=40mm;T=15mm,EA,3.29,Supplier HardwareHouse,19
+PRT-000162,Backboard,Walnut Wood,Walnut Wood Backboard 600x200x12mm,L=600mm;W=200mm;T=12mm,EA,4.9,Supplier FastenPro,33
+PRT-000163,Screw,Steel,Steel Screw M8x20,Dia=8mm;Len=20mm,EA,0.08,Supplier UpholsteryHub,11
+PRT-000164,Handle,Steel,Steel Handle,,EA,2.43,Supplier FastenPro,32
+PRT-000165,Panel,MDF,MDF Panel 900x100x18mm,L=900mm;W=100mm;T=18mm,EA,2.09,Supplier UpholsteryHub,10
+PRT-000166,Nut,Steel,Steel Nut M6,Dia=6mm,EA,0.03,Supplier MetalWorks,31
+PRT-000167,Rail,Pine Wood,Pine Wood Rail 1800x80x40mm,L=1800mm;W=80mm;T=40mm,EA,2.76,Supplier TimberCo,22
+PRT-000168,Screw,Steel,Steel Screw M6x20,Dia=6mm;Len=20mm,EA,0.05,Supplier PlastiCraft,6
+PRT-000169,Rail,Bamboo,Bamboo Rail 400x40x15mm,L=400mm;W=40mm;T=15mm,EA,3.24,Supplier PrimeSupply,8
+PRT-000170,Bolt,Steel,Steel Bolt M5x16,Dia=5mm;Len=16mm,EA,0.08,Supplier PlastiCraft,11
+PRT-000171,Backboard,Oak Wood,Oak Wood Backboard 1600x80x25mm,L=1600mm;W=80mm;T=25mm,EA,3.14,Supplier FinishesPlus,31
+PRT-000172,Backboard,Walnut Wood,Walnut Wood Backboard 1400x200x12mm,L=1400mm;W=200mm;T=12mm,EA,4.96,Supplier TimberCo,34
+PRT-000173,Panel,Oak Wood,Oak Wood Panel 1800x40x12mm,L=1800mm;W=40mm;T=12mm,EA,2.68,Supplier PrimeSupply,4
+PRT-000174,Screw,Steel,Steel Screw M5x12,Dia=5mm;Len=12mm,EA,0.02,Supplier UpholsteryHub,28
+PRT-000175,Bolt,Steel,Steel Bolt M6x30,Dia=6mm;Len=30mm,EA,0.13,Supplier EcoMaterials,30
+PRT-000176,Backboard,Walnut Wood,Walnut Wood Backboard 400x150x30mm,L=400mm;W=150mm;T=30mm,EA,5.86,Supplier EcoMaterials,10
+PRT-000177,Glue Bottle,Glue,Glue Glue Bottle 1L,Volume=1L,EA,1.46,Supplier HardwareHouse,15
+PRT-000178,Backboard,MDF,MDF Backboard 400x200x25mm,L=400mm;W=200mm;T=25mm,EA,1.56,Supplier PlastiCraft,30
+PRT-000179,Screw,Steel,Steel Screw M5x50,Dia=5mm;Len=50mm,EA,0.11,Supplier HardwareHouse,24
+PRT-000180,Backboard,Bamboo,Bamboo Backboard 1600x40x50mm,L=1600mm;W=40mm;T=50mm,EA,2.02,Supplier GlassLab,4
+PRT-000181,Screw,Steel,Steel Screw M6x16,Dia=6mm;Len=16mm,EA,0.09,Supplier FinishesPlus,12
+PRT-000182,Nut,Stainless Steel,Stainless Steel Nut M10,Dia=10mm,EA,0.03,Supplier GlassLab,2
+PRT-000183,Backboard,Bamboo,Bamboo Backboard 400x400x25mm,L=400mm;W=400mm;T=25mm,EA,2.94,Supplier FastenPro,27
+PRT-000184,Shelf,MDF,MDF Shelf 300x60x25mm,L=300mm;W=60mm;T=25mm,EA,1.37,Supplier FastenPro,6
+PRT-000185,Screw,Steel,Steel Screw M6x30,Dia=6mm;Len=30mm,EA,0.07,Supplier UpholsteryHub,3
+PRT-000186,Bolt,Brass,Brass Bolt M5x40,Dia=5mm;Len=40mm,EA,0.55,Supplier FastenPro,30
+PRT-000187,Bolt,Stainless Steel,Stainless Steel Bolt M8x40,Dia=8mm;Len=40mm,EA,0.21,Supplier TimberCo,25
+PRT-000188,Leg,Pine Wood,Pine Wood Leg 600x150x20mm,L=600mm;W=150mm;T=20mm,EA,1.9,Supplier PrimeSupply,2
+PRT-000189,Leg,Oak Wood,Oak Wood Leg 1200x150x20mm,L=1200mm;W=150mm;T=20mm,EA,5.15,Supplier TimberCo,23
+PRT-000190,Shelf,Pine Wood,Pine Wood Shelf 800x400x20mm,L=800mm;W=400mm;T=20mm,EA,2.35,Supplier MetalWorks,16
+PRT-000191,Backboard,Birch Plywood,Birch Plywood Backboard 900x600x18mm,L=900mm;W=600mm;T=18mm,EA,3.01,Supplier FastenPro,22
+PRT-000192,Feet Pad,ABS Plastic,ABS Plastic Feet Pad,,EA,2.29,Supplier FinishesPlus,28
+PRT-000193,Screw,Brass,Brass Screw M5x12,Dia=5mm;Len=12mm,EA,0.06,Supplier PrimeSupply,11
+PRT-000194,Slider,ABS Plastic,ABS Plastic Slider,,EA,5.72,Supplier EcoMaterials,4
+PRT-000195,Bracket,Steel,Steel Bracket,,EA,2.73,Supplier HardwareHouse,30
+PRT-000196,Shelf,Pine Wood,Pine Wood Shelf 1400x120x12mm,L=1400mm;W=120mm;T=12mm,EA,1.43,Supplier HardwareHouse,10
+PRT-000197,Backboard,Birch Plywood,Birch Plywood Backboard 1600x300x12mm,L=1600mm;W=300mm;T=12mm,EA,2.44,Supplier HardwareHouse,18
+PRT-000198,Glue Bottle,Glue,Glue Glue Bottle 1L,Volume=1L,EA,2.74,Supplier PrimeSupply,18
+PRT-000199,Fabric Cover,Fabric,Fabric Fabric Cover 1000x800mm,L=1000mm;W=800mm,EA,4.91,Supplier MetalWorks,32
+PRT-000200,Panel,Pine Wood,Pine Wood Panel 300x200x15mm,L=300mm;W=200mm;T=15mm,EA,2.03,Supplier GlassLab,31
+PRT-000201,Foam Insert,Foam,Foam Foam Insert 500x40x100mm,L=500mm;W=40mm;T=100mm,EA,2.38,Supplier UpholsteryHub,3
+PRT-000202,Hinge,Polypropylene,Polypropylene Hinge,,EA,5.28,Supplier GlassLab,25
+PRT-000203,Caster Wheel,Polypropylene,Polypropylene Caster Wheel,,EA,7.46,Supplier PrimeSupply,5
+PRT-000204,Handle,Steel,Steel Handle,,EA,5.42,Supplier HardwareHouse,34
+PRT-000205,Bolt,Steel,Steel Bolt M10x20,Dia=10mm;Len=20mm,EA,0.06,Supplier EcoMaterials,12
+PRT-000206,Beam,MDF,MDF Beam 500x40x40mm,L=500mm;W=40mm;T=40mm,EA,1.25,Supplier PlastiCraft,24
+PRT-000207,Handle,Steel,Steel Handle,,EA,7.7,Supplier UpholsteryHub,18
+PRT-000208,Panel,Walnut Wood,Walnut Wood Panel 1200x200x20mm,L=1200mm;W=200mm;T=20mm,EA,5.06,Supplier UpholsteryHub,9
+PRT-000209,Glass Top,Tempered Glass,Tempered Glass Glass Top 800x600mm,L=800mm;W=600mm,EA,30.18,Supplier EcoMaterials,32
+PRT-000210,Beam,Oak Wood,Oak Wood Beam 900x200x40mm,L=900mm;W=200mm;T=40mm,EA,6.85,Supplier EcoMaterials,13
+PRT-000211,Panel,Birch Plywood,Birch Plywood Panel 1800x40x30mm,L=1800mm;W=40mm;T=30mm,EA,2.66,Supplier GlassLab,17
+PRT-000212,Screw,Steel,Steel Screw M10x30,Dia=10mm;Len=30mm,EA,0.1,Supplier FinishesPlus,25
+PRT-000213,Screw,Steel,Steel Screw M5x25,Dia=5mm;Len=25mm,EA,0.04,Supplier PlastiCraft,9
+PRT-000214,Beam,Oak Wood,Oak Wood Beam 600x400x30mm,L=600mm;W=400mm;T=30mm,EA,4.52,Supplier EcoMaterials,22
+PRT-000215,Glass Top,Tempered Glass,Tempered Glass Glass Top 1000x600mm,L=1000mm;W=600mm,EA,29.58,Supplier HardwareHouse,23
+PRT-000216,Paint Can,Paint,Paint Paint Can 1L,Volume=1L,EA,4.71,Supplier TimberCo,33
+PRT-000217,Washer,Stainless Steel,Stainless Steel Washer M6,Dia=6mm,EA,0.02,Supplier HardwareHouse,25
+PRT-000218,Shelf,Walnut Wood,Walnut Wood Shelf 1000x80x8mm,L=1000mm;W=80mm;T=8mm,EA,5.73,Supplier TimberCo,28
+PRT-000219,Washer,Steel,Steel Washer M6,Dia=6mm,EA,0.02,Supplier HardwareHouse,21
+PRT-000220,Nut,Steel,Steel Nut M4,Dia=4mm,EA,0.01,Supplier MetalWorks,26
+PRT-000221,Drawer Front,Pine Wood,Pine Wood Drawer Front 900x200x40mm,L=900mm;W=200mm;T=40mm,EA,2.91,Supplier TimberCo,3
+PRT-000222,Bracket,Steel,Steel Bracket,,EA,3.46,Supplier GlassLab,14
+PRT-000223,Drawer Front,Walnut Wood,Walnut Wood Drawer Front 900x200x20mm,L=900mm;W=200mm;T=20mm,EA,8.53,Supplier PrimeSupply,14
+PRT-000224,Hinge,Steel,Steel Hinge,,EA,10.85,Supplier TimberCo,17
+PRT-000225,Bolt,Steel,Steel Bolt M5x16,Dia=5mm;Len=16mm,EA,0.07,Supplier FastenPro,4
+PRT-000226,Washer,Stainless Steel,Stainless Steel Washer M5,Dia=5mm,EA,0.04,Supplier FinishesPlus,6
+PRT-000227,Feet Pad,Steel,Steel Feet Pad,,EA,3.82,Supplier GlassLab,18
+PRT-000228,Beam,Oak Wood,Oak Wood Beam 600x200x50mm,L=600mm;W=200mm;T=50mm,EA,3.5,Supplier HardwareHouse,28
+PRT-000229,Beam,Walnut Wood,Walnut Wood Beam 800x100x30mm,L=800mm;W=100mm;T=30mm,EA,3.94,Supplier PrimeSupply,6
+PRT-000230,Shelf,MDF,MDF Shelf 2000x150x40mm,L=2000mm;W=150mm;T=40mm,EA,2.14,Supplier HardwareHouse,26
+PRT-000231,Washer,Steel,Steel Washer M5,Dia=5mm,EA,0.01,Supplier PrimeSupply,11
+PRT-000232,Backboard,Pine Wood,Pine Wood Backboard 1000x120x30mm,L=1000mm;W=120mm;T=30mm,EA,1.37,Supplier FastenPro,23
+PRT-000233,Washer,Steel,Steel Washer M4,Dia=4mm,EA,0.02,Supplier HardwareHouse,8
+PRT-000234,Panel,Oak Wood,Oak Wood Panel 500x300x30mm,L=500mm;W=300mm;T=30mm,EA,4.16,Supplier EcoMaterials,29
+PRT-000235,Washer,Steel,Steel Washer M8,Dia=8mm,EA,0.05,Supplier GlassLab,25
+PRT-000236,Slider,Steel,Steel Slider,,EA,12.55,Supplier FastenPro,19
+PRT-000237,Drawer Front,Oak Wood,Oak Wood Drawer Front 400x120x18mm,L=400mm;W=120mm;T=18mm,EA,4.95,Supplier GlassLab,30
+PRT-000238,Hinge,ABS Plastic,ABS Plastic Hinge,,EA,8.99,Supplier PlastiCraft,9
+PRT-000239,Screw,Steel,Steel Screw M5x50,Dia=5mm;Len=50mm,EA,0.04,Supplier HardwareHouse,27
+PRT-000240,Caster Wheel,Aluminum,Aluminum Caster Wheel,,EA,9.3,Supplier UpholsteryHub,16
+PRT-000241,Drawer Front,Walnut Wood,Walnut Wood Drawer Front 500x100x15mm,L=500mm;W=100mm;T=15mm,EA,7.24,Supplier PlastiCraft,13
+PRT-000242,Leg,Bamboo,Bamboo Leg 400x600x30mm,L=400mm;W=600mm;T=30mm,EA,5.45,Supplier HardwareHouse,16
+PRT-000243,Leg,Pine Wood,Pine Wood Leg 300x100x18mm,L=300mm;W=100mm;T=18mm,EA,1.83,Supplier UpholsteryHub,19
+PRT-000244,Glue Bottle,Glue,Glue Glue Bottle 1L,Volume=1L,EA,2.86,Supplier GlassLab,6
+PRT-000245,Bolt,Steel,Steel Bolt M3x50,Dia=3mm;Len=50mm,EA,0.08,Supplier FinishesPlus,8
+PRT-000246,Panel,Birch Plywood,Birch Plywood Panel 800x40x25mm,L=800mm;W=40mm;T=25mm,EA,2.74,Supplier GlassLab,27
+PRT-000247,Screw,Steel,Steel Screw M5x30,Dia=5mm;Len=30mm,EA,0.1,Supplier FinishesPlus,28
+PRT-000248,Panel,Walnut Wood,Walnut Wood Panel 500x60x12mm,L=500mm;W=60mm;T=12mm,EA,2.58,Supplier GlassLab,33
+PRT-000249,Handle,Polypropylene,Polypropylene Handle,,EA,3.8,Supplier FastenPro,12
+PRT-000250,Backboard,Oak Wood,Oak Wood Backboard 600x120x30mm,L=600mm;W=120mm;T=30mm,EA,4.7,Supplier PrimeSupply,11
+PRT-000251,Screw,Steel,Steel Screw M6x30,Dia=6mm;Len=30mm,EA,0.04,Supplier MetalWorks,7
+PRT-000252,Shelf,Pine Wood,Pine Wood Shelf 1200x800x25mm,L=1200mm;W=800mm;T=25mm,EA,4.4,Supplier MetalWorks,11
+PRT-000253,Rail,Bamboo,Bamboo Rail 900x100x18mm,L=900mm;W=100mm;T=18mm,EA,3.41,Supplier PlastiCraft,30
+PRT-000254,Drawer Front,Pine Wood,Pine Wood Drawer Front 200x60x30mm,L=200mm;W=60mm;T=30mm,EA,1.6,Supplier UpholsteryHub,14
+PRT-000255,Rail,Birch Plywood,Birch Plywood Rail 300x120x20mm,L=300mm;W=120mm;T=20mm,EA,2.12,Supplier UpholsteryHub,16
+PRT-000256,Leg,Bamboo,Bamboo Leg 800x200x20mm,L=800mm;W=200mm;T=20mm,EA,4.97,Supplier PrimeSupply,9
+PRT-000257,Panel,Pine Wood,Pine Wood Panel 500x120x18mm,L=500mm;W=120mm;T=18mm,EA,2.68,Supplier FinishesPlus,28
+PRT-000258,Panel,Pine Wood,Pine Wood Panel 1200x150x18mm,L=1200mm;W=150mm;T=18mm,EA,2.32,Supplier FinishesPlus,19
+PRT-000259,Leg,MDF,MDF Leg 1200x100x8mm,L=1200mm;W=100mm;T=8mm,EA,1.93,Supplier HardwareHouse,11
+PRT-000260,Washer,Stainless Steel,Stainless Steel Washer M8,Dia=8mm,EA,0.01,Supplier HardwareHouse,29
+PRT-000261,Screw,Steel,Steel Screw M5x20,Dia=5mm;Len=20mm,EA,0.05,Supplier HardwareHouse,29
+PRT-000262,Beam,Pine Wood,Pine Wood Beam 700x120x50mm,L=700mm;W=120mm;T=50mm,EA,1.71,Supplier FastenPro,33
+PRT-000263,Handle,ABS Plastic,ABS Plastic Handle,,EA,3.72,Supplier MetalWorks,14
+PRT-000264,Panel,MDF,MDF Panel 600x40x15mm,L=600mm;W=40mm;T=15mm,EA,1.24,Supplier UpholsteryHub,25
+PRT-000265,Panel,Pine Wood,Pine Wood Panel 1400x400x20mm,L=1400mm;W=400mm;T=20mm,EA,4.52,Supplier UpholsteryHub,9
+PRT-000266,Feet Pad,ABS Plastic,ABS Plastic Feet Pad,,EA,1.62,Supplier EcoMaterials,7
+PRT-000267,Leg,Oak Wood,Oak Wood Leg 600x40x18mm,L=600mm;W=40mm;T=18mm,EA,5.22,Supplier MetalWorks,11
+PRT-000268,Backboard,Oak Wood,Oak Wood Backboard 700x150x18mm,L=700mm;W=150mm;T=18mm,EA,4.2,Supplier MetalWorks,28
+PRT-000269,Screw,Steel,Steel Screw M6x30,Dia=6mm;Len=30mm,EA,0.14,Supplier EcoMaterials,28
+PRT-000270,Washer,Stainless Steel,Stainless Steel Washer M4,Dia=4mm,EA,0.02,Supplier UpholsteryHub,10
+PRT-000271,Beam,Oak Wood,Oak Wood Beam 200x200x25mm,L=200mm;W=200mm;T=25mm,EA,3.24,Supplier PlastiCraft,6
+PRT-000272,Washer,Stainless Steel,Stainless Steel Washer M3,Dia=3mm,EA,0.02,Supplier UpholsteryHub,17
+PRT-000273,Beam,Walnut Wood,Walnut Wood Beam 600x200x20mm,L=600mm;W=200mm;T=20mm,EA,5.76,Supplier HardwareHouse,10
+PRT-000274,Hinge,ABS Plastic,ABS Plastic Hinge,,EA,2.76,Supplier GlassLab,4
+PRT-000275,Foam Insert,Foam,Foam Foam Insert 900x80x50mm,L=900mm;W=80mm;T=50mm,EA,2.85,Supplier PlastiCraft,10
+PRT-000276,Shelf,Oak Wood,Oak Wood Shelf 1200x120x8mm,L=1200mm;W=120mm;T=8mm,EA,3.11,Supplier FastenPro,8
+PRT-000277,Panel,Bamboo,Bamboo Panel 600x150x18mm,L=600mm;W=150mm;T=18mm,EA,2.84,Supplier EcoMaterials,31
+PRT-000278,Foam Insert,Foam,Foam Foam Insert 500x120x40mm,L=500mm;W=120mm;T=40mm,EA,2.13,Supplier FastenPro,27
+PRT-000279,Bracket,ABS Plastic,ABS Plastic Bracket,,EA,3.19,Supplier FinishesPlus,9
+PRT-000280,Screw,Steel,Steel Screw M5x25,Dia=5mm;Len=25mm,EA,0.03,Supplier TimberCo,2
+PRT-000281,Shelf,Pine Wood,Pine Wood Shelf 2000x80x8mm,L=2000mm;W=80mm;T=8mm,EA,1.77,Supplier TimberCo,23
+PRT-000282,Beam,MDF,MDF Beam 500x200x12mm,L=500mm;W=200mm;T=12mm,EA,1.64,Supplier UpholsteryHub,8
+PRT-000283,Handle,Polypropylene,Polypropylene Handle,,EA,3.43,Supplier FastenPro,5
+PRT-000284,Bolt,Steel,Steel Bolt M5x40,Dia=5mm;Len=40mm,EA,0.15,Supplier MetalWorks,18
+PRT-000285,Screw,Steel,Steel Screw M5x16,Dia=5mm;Len=16mm,EA,0.03,Supplier PrimeSupply,10
+PRT-000286,Shelf,MDF,MDF Shelf 400x80x20mm,L=400mm;W=80mm;T=20mm,EA,1.24,Supplier FastenPro,9
+PRT-000287,Backboard,Walnut Wood,Walnut Wood Backboard 1000x600x30mm,L=1000mm;W=600mm;T=30mm,EA,8.04,Supplier FinishesPlus,16
+PRT-000288,Backboard,Pine Wood,Pine Wood Backboard 1800x40x15mm,L=1800mm;W=40mm;T=15mm,EA,1.76,Supplier PrimeSupply,21
+PRT-000289,Shelf,Bamboo,Bamboo Shelf 700x150x12mm,L=700mm;W=150mm;T=12mm,EA,3.07,Supplier HardwareHouse,5
+PRT-000290,Backboard,MDF,MDF Backboard 1600x500x30mm,L=1600mm;W=500mm;T=30mm,EA,2.64,Supplier MetalWorks,3
+PRT-000291,Screw,Steel,Steel Screw M10x10,Dia=10mm;Len=10mm,EA,0.06,Supplier MetalWorks,8
+PRT-000292,Panel,Walnut Wood,Walnut Wood Panel 300x400x25mm,L=300mm;W=400mm;T=25mm,EA,3.89,Supplier PlastiCraft,29
+PRT-000293,Rail,Oak Wood,Oak Wood Rail 1400x500x20mm,L=1400mm;W=500mm;T=20mm,EA,6.46,Supplier GlassLab,31
+PRT-000294,Foam Insert,Foam,Foam Foam Insert 600x60x60mm,L=600mm;W=60mm;T=60mm,EA,1.49,Supplier FinishesPlus,20
+PRT-000295,Shelf,MDF,MDF Shelf 600x80x8mm,L=600mm;W=80mm;T=8mm,EA,1.15,Supplier PlastiCraft,34
+PRT-000296,Leg,Oak Wood,Oak Wood Leg 1800x40x15mm,L=1800mm;W=40mm;T=15mm,EA,5.54,Supplier FinishesPlus,5
+PRT-000297,Fabric Cover,Fabric,Fabric Fabric Cover 800x800mm,L=800mm;W=800mm,EA,4.41,Supplier FastenPro,24
+PRT-000298,Shelf,Oak Wood,Oak Wood Shelf 500x100x12mm,L=500mm;W=100mm;T=12mm,EA,4.05,Supplier UpholsteryHub,31
+PRT-000299,Drawer Front,Birch Plywood,Birch Plywood Drawer Front 800x100x18mm,L=800mm;W=100mm;T=18mm,EA,3.39,Supplier MetalWorks,13
+PRT-000300,Bolt,Brass,Brass Bolt M5x40,Dia=5mm;Len=40mm,EA,0.11,Supplier TimberCo,26
+PRT-000301,Rail,MDF,MDF Rail 1800x200x50mm,L=1800mm;W=200mm;T=50mm,EA,3.66,Supplier EcoMaterials,19
+PRT-000302,Leg,Pine Wood,Pine Wood Leg 800x200x30mm,L=800mm;W=200mm;T=30mm,EA,2.79,Supplier HardwareHouse,33
+PRT-000303,Shelf,Pine Wood,Pine Wood Shelf 1400x400x25mm,L=1400mm;W=400mm;T=25mm,EA,3.27,Supplier MetalWorks,17
+PRT-000304,Slider,Stainless Steel,Stainless Steel Slider,,EA,8.01,Supplier GlassLab,27
+PRT-000305,Screw,Stainless Steel,Stainless Steel Screw M5x30,Dia=5mm;Len=30mm,EA,0.07,Supplier HardwareHouse,12
+PRT-000306,Screw,Steel,Steel Screw M6x12,Dia=6mm;Len=12mm,EA,0.06,Supplier FastenPro,33
+PRT-000307,Panel,Bamboo,Bamboo Panel 900x60x30mm,L=900mm;W=60mm;T=30mm,EA,3.72,Supplier UpholsteryHub,25
+PRT-000308,Slider,Aluminum,Aluminum Slider,,EA,9.5,Supplier PrimeSupply,29
+PRT-000309,Hinge,Polypropylene,Polypropylene Hinge,,EA,3.65,Supplier GlassLab,27
+PRT-000310,Feet Pad,Stainless Steel,Stainless Steel Feet Pad,,EA,4.22,Supplier EcoMaterials,13
+PRT-000311,Panel,Pine Wood,Pine Wood Panel 600x60x30mm,L=600mm;W=60mm;T=30mm,EA,1.48,Supplier EcoMaterials,20
+PRT-000312,Shelf,Oak Wood,Oak Wood Shelf 1200x120x20mm,L=1200mm;W=120mm;T=20mm,EA,5.22,Supplier PrimeSupply,20
+PRT-000313,Glass Top,Tempered Glass,Tempered Glass Glass Top 800x600mm,L=800mm;W=600mm,EA,27.83,Supplier FinishesPlus,4
+PRT-000314,Paint Can,Paint,Paint Paint Can 1L,Volume=1L,EA,4.38,Supplier GlassLab,28
+PRT-000315,Nut,Brass,Brass Nut M3,Dia=3mm,EA,0.02,Supplier UpholsteryHub,32
+PRT-000316,Washer,Steel,Steel Washer M5,Dia=5mm,EA,0.01,Supplier PlastiCraft,31
+PRT-000317,Slider,ABS Plastic,ABS Plastic Slider,,EA,3.93,Supplier EcoMaterials,4
+PRT-000318,Bracket,Aluminum,Aluminum Bracket,,EA,5.81,Supplier HardwareHouse,11
+PRT-000319,Screw,Stainless Steel,Stainless Steel Screw M3x20,Dia=3mm;Len=20mm,EA,0.03,Supplier EcoMaterials,30
+PRT-000320,Shelf,MDF,MDF Shelf 500x100x20mm,L=500mm;W=100mm;T=20mm,EA,1.6,Supplier UpholsteryHub,31
+PRT-000321,Feet Pad,Steel,Steel Feet Pad,,EA,4.23,Supplier FinishesPlus,22
+PRT-000322,Backboard,MDF,MDF Backboard 1400x120x40mm,L=1400mm;W=120mm;T=40mm,EA,1.95,Supplier FinishesPlus,7
+PRT-000323,Bracket,Steel,Steel Bracket,,EA,10.83,Supplier GlassLab,18
+PRT-000324,Beam,Birch Plywood,Birch Plywood Beam 1200x60x15mm,L=1200mm;W=60mm;T=15mm,EA,2.69,Supplier PlastiCraft,32
+PRT-000325,Caster Wheel,Aluminum,Aluminum Caster Wheel,,EA,25.13,Supplier FinishesPlus,16
+PRT-000326,Leg,Walnut Wood,Walnut Wood Leg 500x60x18mm,L=500mm;W=60mm;T=18mm,EA,7.7,Supplier HardwareHouse,17
+PRT-000327,Hinge,ABS Plastic,ABS Plastic Hinge,,EA,2.35,Supplier PlastiCraft,31
+PRT-000328,Nut,Stainless Steel,Stainless Steel Nut M5,Dia=5mm,EA,0.02,Supplier MetalWorks,19
+PRT-000329,Varnish Can,Varnish,Varnish Varnish Can 1L,Volume=1L,EA,3.55,Supplier HardwareHouse,18
+PRT-000330,Bracket,Steel,Steel Bracket,,EA,2.87,Supplier HardwareHouse,2
+PRT-000331,Shelf,Pine Wood,Pine Wood Shelf 500x500x8mm,L=500mm;W=500mm;T=8mm,EA,1.94,Supplier HardwareHouse,20
+PRT-000332,Hinge,ABS Plastic,ABS Plastic Hinge,,EA,4.1,Supplier FastenPro,9
+PRT-000333,Caster Wheel,Steel,Steel Caster Wheel,,EA,5.16,Supplier UpholsteryHub,9
+PRT-000334,Screw,Brass,Brass Screw M8x25,Dia=8mm;Len=25mm,EA,0.12,Supplier GlassLab,24
+PRT-000335,Nut,Steel,Steel Nut M3,Dia=3mm,EA,0.01,Supplier GlassLab,22
+PRT-000336,Rail,Pine Wood,Pine Wood Rail 1600x100x40mm,L=1600mm;W=100mm;T=40mm,EA,4.45,Supplier GlassLab,20
+PRT-000337,Rail,Birch Plywood,Birch Plywood Rail 1000x60x20mm,L=1000mm;W=60mm;T=20mm,EA,4.19,Supplier HardwareHouse,4
+PRT-000338,Beam,Oak Wood,Oak Wood Beam 600x300x12mm,L=600mm;W=300mm;T=12mm,EA,3.92,Supplier EcoMaterials,34
+PRT-000339,Shelf,Walnut Wood,Walnut Wood Shelf 500x80x18mm,L=500mm;W=80mm;T=18mm,EA,5.78,Supplier FinishesPlus,3
+PRT-000340,Slider,Acrylic,Acrylic Slider,,EA,6.32,Supplier GlassLab,13
+PRT-000341,Leg,Pine Wood,Pine Wood Leg 600x400x8mm,L=600mm;W=400mm;T=8mm,EA,2.87,Supplier FastenPro,24
+PRT-000342,Panel,Pine Wood,Pine Wood Panel 1200x200x15mm,L=1200mm;W=200mm;T=15mm,EA,1.47,Supplier FastenPro,8
+PRT-000343,Screw,Steel,Steel Screw M6x12,Dia=6mm;Len=12mm,EA,0.03,Supplier MetalWorks,27
+PRT-000344,Screw,Steel,Steel Screw M8x30,Dia=8mm;Len=30mm,EA,0.12,Supplier MetalWorks,25
+PRT-000345,Beam,Pine Wood,Pine Wood Beam 800x60x12mm,L=800mm;W=60mm;T=12mm,EA,1.79,Supplier EcoMaterials,26
+PRT-000346,Backboard,Oak Wood,Oak Wood Backboard 500x150x20mm,L=500mm;W=150mm;T=20mm,EA,2.76,Supplier TimberCo,3
+PRT-000347,Glass Top,Tempered Glass,Tempered Glass Glass Top 1600x600mm,L=1600mm;W=600mm,EA,40.51,Supplier EcoMaterials,29
+PRT-000348,Washer,Steel,Steel Washer M6,Dia=6mm,EA,0.03,Supplier FinishesPlus,17
+PRT-000349,Panel,MDF,MDF Panel 1200x40x25mm,L=1200mm;W=40mm;T=25mm,EA,1.46,Supplier MetalWorks,6
+PRT-000350,Screw,Steel,Steel Screw M5x25,Dia=5mm;Len=25mm,EA,0.03,Supplier FastenPro,22
+PRT-000351,Screw,Steel,Steel Screw M4x40,Dia=4mm;Len=40mm,EA,0.11,Supplier PlastiCraft,29
+PRT-000352,Bolt,Steel,Steel Bolt M6x30,Dia=6mm;Len=30mm,EA,0.15,Supplier TimberCo,18
+PRT-000353,Screw,Steel,Steel Screw M4x10,Dia=4mm;Len=10mm,EA,0.06,Supplier PlastiCraft,7
+PRT-000354,Caster Wheel,ABS Plastic,ABS Plastic Caster Wheel,,EA,12.55,Supplier PrimeSupply,17
+PRT-000355,Caster Wheel,Aluminum,Aluminum Caster Wheel,,EA,9.18,Supplier EcoMaterials,14
+PRT-000356,Beam,Birch Plywood,Birch Plywood Beam 800x100x15mm,L=800mm;W=100mm;T=15mm,EA,3.26,Supplier TimberCo,12
+PRT-000357,Bolt,Steel,Steel Bolt M8x20,Dia=8mm;Len=20mm,EA,0.07,Supplier EcoMaterials,32
+PRT-000358,Handle,ABS Plastic,ABS Plastic Handle,,EA,6.62,Supplier TimberCo,29
+PRT-000359,Backboard,Bamboo,Bamboo Backboard 1400x200x30mm,L=1400mm;W=200mm;T=30mm,EA,4.18,Supplier GlassLab,26
+PRT-000360,Beam,Bamboo,Bamboo Beam 1200x60x15mm,L=1200mm;W=60mm;T=15mm,EA,3.45,Supplier TimberCo,27
+PRT-000361,Beam,Bamboo,Bamboo Beam 600x800x25mm,L=600mm;W=800mm;T=25mm,EA,3.47,Supplier MetalWorks,13
+PRT-000362,Panel,Pine Wood,Pine Wood Panel 900x300x40mm,L=900mm;W=300mm;T=40mm,EA,3.81,Supplier TimberCo,32
+PRT-000363,Shelf,Bamboo,Bamboo Shelf 1600x60x40mm,L=1600mm;W=60mm;T=40mm,EA,4.42,Supplier TimberCo,25
+PRT-000364,Slider,Aluminum,Aluminum Slider,,EA,10.5,Supplier PrimeSupply,14
+PRT-000365,Caster Wheel,Polypropylene,Polypropylene Caster Wheel,,EA,5.79,Supplier FinishesPlus,27
+PRT-000366,Shelf,Pine Wood,Pine Wood Shelf 500x150x15mm,L=500mm;W=150mm;T=15mm,EA,3.05,Supplier MetalWorks,5
+PRT-000367,Drawer Front,MDF,MDF Drawer Front 200x120x20mm,L=200mm;W=120mm;T=20mm,EA,1.62,Supplier PlastiCraft,11
+PRT-000368,Glass Top,Tempered Glass,Tempered Glass Glass Top 1600x800mm,L=1600mm;W=800mm,EA,41.64,Supplier FastenPro,27
+PRT-000369,Screw,Steel,Steel Screw M5x50,Dia=5mm;Len=50mm,EA,0.08,Supplier HardwareHouse,14
+PRT-000370,Panel,MDF,MDF Panel 2000x120x15mm,L=2000mm;W=120mm;T=15mm,EA,2.35,Supplier GlassLab,24
+PRT-000371,Screw,Steel,Steel Screw M4x20,Dia=4mm;Len=20mm,EA,0.03,Supplier UpholsteryHub,10
+PRT-000372,Foam Insert,Foam,Foam Foam Insert 200x300x50mm,L=200mm;W=300mm;T=50mm,EA,1.97,Supplier TimberCo,9
+PRT-000373,Washer,Steel,Steel Washer M8,Dia=8mm,EA,0.02,Supplier FinishesPlus,30
+PRT-000374,Bolt,Steel,Steel Bolt M4x50,Dia=4mm;Len=50mm,EA,0.1,Supplier FinishesPlus,31
+PRT-000375,Shelf,Bamboo,Bamboo Shelf 300x150x12mm,L=300mm;W=150mm;T=12mm,EA,2.59,Supplier PlastiCraft,27
+PRT-000376,Panel,Oak Wood,Oak Wood Panel 500x400x12mm,L=500mm;W=400mm;T=12mm,EA,6.14,Supplier FinishesPlus,30
+PRT-000377,Hinge,ABS Plastic,ABS Plastic Hinge,,EA,2.33,Supplier MetalWorks,2
+PRT-000378,Washer,Stainless Steel,Stainless Steel Washer M8,Dia=8mm,EA,0.04,Supplier TimberCo,4
+PRT-000379,Bracket,ABS Plastic,ABS Plastic Bracket,,EA,2.73,Supplier FastenPro,2
+PRT-000380,Screw,Steel,Steel Screw M8x20,Dia=8mm;Len=20mm,EA,0.04,Supplier EcoMaterials,5
+PRT-000381,Screw,Steel,Steel Screw M8x25,Dia=8mm;Len=25mm,EA,0.06,Supplier FinishesPlus,33
+PRT-000382,Hinge,Steel,Steel Hinge,,EA,12.48,Supplier GlassLab,14
+PRT-000383,Foam Insert,Foam,Foam Foam Insert 600x800x80mm,L=600mm;W=800mm;T=80mm,EA,2.68,Supplier TimberCo,15
+PRT-000384,Washer,Steel,Steel Washer M4,Dia=4mm,EA,0.01,Supplier GlassLab,9
+PRT-000385,Screw,Steel,Steel Screw M4x50,Dia=4mm;Len=50mm,EA,0.07,Supplier UpholsteryHub,23
+PRT-000386,Hinge,Polypropylene,Polypropylene Hinge,,EA,4.13,Supplier PlastiCraft,4
+PRT-000387,Screw,Steel,Steel Screw M3x50,Dia=3mm;Len=50mm,EA,0.06,Supplier PrimeSupply,15
+PRT-000388,Beam,MDF,MDF Beam 900x60x50mm,L=900mm;W=60mm;T=50mm,EA,2.05,Supplier UpholsteryHub,32
+PRT-000389,Slider,Aluminum,Aluminum Slider,,EA,8.92,Supplier UpholsteryHub,23
+PRT-000390,Beam,Birch Plywood,Birch Plywood Beam 300x40x25mm,L=300mm;W=40mm;T=25mm,EA,3.3,Supplier FastenPro,25
+PRT-000391,Bracket,Polypropylene,Polypropylene Bracket,,EA,1.9,Supplier TimberCo,29
+PRT-000392,Washer,Brass,Brass Washer M8,Dia=8mm,EA,0.04,Supplier HardwareHouse,14
+PRT-000393,Shelf,Pine Wood,Pine Wood Shelf 1400x40x12mm,L=1400mm;W=40mm;T=12mm,EA,1.93,Supplier HardwareHouse,9
+PRT-000394,Shelf,Bamboo,Bamboo Shelf 1200x120x12mm,L=1200mm;W=120mm;T=12mm,EA,3.14,Supplier PrimeSupply,34
+PRT-000395,Rail,Pine Wood,Pine Wood Rail 1000x100x25mm,L=1000mm;W=100mm;T=25mm,EA,2.17,Supplier GlassLab,6
+PRT-000396,Panel,Pine Wood,Pine Wood Panel 1400x400x25mm,L=1400mm;W=400mm;T=25mm,EA,3.02,Supplier GlassLab,8
+PRT-000397,Drawer Front,MDF,MDF Drawer Front 2000x120x30mm,L=2000mm;W=120mm;T=30mm,EA,2.38,Supplier MetalWorks,34
+PRT-000398,Shelf,Birch Plywood,Birch Plywood Shelf 700x120x18mm,L=700mm;W=120mm;T=18mm,EA,3.1,Supplier PlastiCraft,2
+PRT-000399,Bracket,ABS Plastic,ABS Plastic Bracket,,EA,1.53,Supplier MetalWorks,7
+PRT-000400,Shelf,Birch Plywood,Birch Plywood Shelf 1600x120x15mm,L=1600mm;W=120mm;T=15mm,EA,2.64,Supplier FinishesPlus,33
+PRT-000401,Caster Wheel,Polypropylene,Polypropylene Caster Wheel,,EA,3.36,Supplier FinishesPlus,10
+PRT-000402,Caster Wheel,Polypropylene,Polypropylene Caster Wheel,,EA,5.73,Supplier TimberCo,14
+PRT-000403,Shelf,Pine Wood,Pine Wood Shelf 1400x500x18mm,L=1400mm;W=500mm;T=18mm,EA,5.22,Supplier TimberCo,16
+PRT-000404,Bolt,Steel,Steel Bolt M4x20,Dia=4mm;Len=20mm,EA,0.07,Supplier GlassLab,19
+PRT-000405,Panel,MDF,MDF Panel 400x120x25mm,L=400mm;W=120mm;T=25mm,EA,1.68,Supplier PrimeSupply,15
+PRT-000406,Bolt,Steel,Steel Bolt M8x40,Dia=8mm;Len=40mm,EA,0.1,Supplier HardwareHouse,29
+PRT-000407,Bolt,Steel,Steel Bolt M4x25,Dia=4mm;Len=25mm,EA,0.05,Supplier FinishesPlus,28
+PRT-000408,Rail,Pine Wood,Pine Wood Rail 1400x150x25mm,L=1400mm;W=150mm;T=25mm,EA,2.43,Supplier UpholsteryHub,15
+PRT-000409,Fabric Cover,Leather,Leather Fabric Cover 1200x700mm,L=1200mm;W=700mm,EA,15.22,Supplier EcoMaterials,7
+PRT-000410,Bracket,Polypropylene,Polypropylene Bracket,,EA,2.35,Supplier MetalWorks,26
+PRT-000411,Hinge,Steel,Steel Hinge,,EA,8.42,Supplier EcoMaterials,17
+PRT-000412,Shelf,Pine Wood,Pine Wood Shelf 1200x100x20mm,L=1200mm;W=100mm;T=20mm,EA,1.78,Supplier PlastiCraft,22
+PRT-000413,Backboard,MDF,MDF Backboard 1000x300x15mm,L=1000mm;W=300mm;T=15mm,EA,1.53,Supplier PlastiCraft,31
+PRT-000414,Foam Insert,Foam,Foam Foam Insert 1000x500x60mm,L=1000mm;W=500mm;T=60mm,EA,3.13,Supplier HardwareHouse,13
+PRT-000415,Screw,Steel,Steel Screw M5x25,Dia=5mm;Len=25mm,EA,0.06,Supplier UpholsteryHub,14
+PRT-000416,Shelf,Birch Plywood,Birch Plywood Shelf 1200x150x25mm,L=1200mm;W=150mm;T=25mm,EA,2.02,Supplier FastenPro,10
+PRT-000417,Backboard,MDF,MDF Backboard 1600x80x8mm,L=1600mm;W=80mm;T=8mm,EA,2.15,Supplier MetalWorks,30
+PRT-000418,Nut,Stainless Steel,Stainless Steel Nut M6,Dia=6mm,EA,0.04,Supplier TimberCo,16
+PRT-000419,Washer,Steel,Steel Washer M6,Dia=6mm,EA,0.01,Supplier FastenPro,28
+PRT-000420,Screw,Brass,Brass Screw M6x30,Dia=6mm;Len=30mm,EA,0.15,Supplier TimberCo,5
+PRT-000421,Hinge,Acrylic,Acrylic Hinge,,EA,6.69,Supplier GlassLab,32
+PRT-000422,Panel,MDF,MDF Panel 1400x200x18mm,L=1400mm;W=200mm;T=18mm,EA,1.93,Supplier HardwareHouse,10
+PRT-000423,Washer,Steel,Steel Washer M6,Dia=6mm,EA,0.02,Supplier MetalWorks,8
+PRT-000424,Slider,Steel,Steel Slider,,EA,9.55,Supplier FastenPro,10
+PRT-000425,Screw,Steel,Steel Screw M8x40,Dia=8mm;Len=40mm,EA,0.16,Supplier FinishesPlus,31
+PRT-000426,Screw,Steel,Steel Screw M10x16,Dia=10mm;Len=16mm,EA,0.07,Supplier TimberCo,28
+PRT-000427,Leg,Oak Wood,Oak Wood Leg 500x400x20mm,L=500mm;W=400mm;T=20mm,EA,5.53,Supplier FastenPro,12
+PRT-000428,Leg,MDF,MDF Leg 1200x300x50mm,L=1200mm;W=300mm;T=50mm,EA,5.78,Supplier PrimeSupply,7
+PRT-000429,Nut,Steel,Steel Nut M6,Dia=6mm,EA,0.03,Supplier HardwareHouse,32
+PRT-000430,Rail,Oak Wood,Oak Wood Rail 1200x400x30mm,L=1200mm;W=400mm;T=30mm,EA,6.92,Supplier HardwareHouse,31
+PRT-000431,Screw,Steel,Steel Screw M4x30,Dia=4mm;Len=30mm,EA,0.05,Supplier TimberCo,15
+PRT-000432,Backboard,Pine Wood,Pine Wood Backboard 300x40x25mm,L=300mm;W=40mm;T=25mm,EA,1.21,Supplier GlassLab,17
+PRT-000433,Foam Insert,Foam,Foam Foam Insert 900x300x100mm,L=900mm;W=300mm;T=100mm,EA,3.52,Supplier GlassLab,14
+PRT-000434,Foam Insert,Foam,Foam Foam Insert 800x500x30mm,L=800mm;W=500mm;T=30mm,EA,2.41,Supplier HardwareHouse,15
+PRT-000435,Screw,Brass,Brass Screw M4x60,Dia=4mm;Len=60mm,EA,0.14,Supplier UpholsteryHub,10
+PRT-000436,Leg,Walnut Wood,Walnut Wood Leg 800x400x8mm,L=800mm;W=400mm;T=8mm,EA,8.72,Supplier UpholsteryHub,7
+PRT-000437,Nut,Stainless Steel,Stainless Steel Nut M5,Dia=5mm,EA,0.03,Supplier FinishesPlus,2
+PRT-000438,Shelf,Bamboo,Bamboo Shelf 600x500x18mm,L=600mm;W=500mm;T=18mm,EA,6.15,Supplier UpholsteryHub,2
+PRT-000439,Leg,Oak Wood,Oak Wood Leg 800x120x20mm,L=800mm;W=120mm;T=20mm,EA,3.44,Supplier UpholsteryHub,3
+PRT-000440,Shelf,Bamboo,Bamboo Shelf 200x300x18mm,L=200mm;W=300mm;T=18mm,EA,2.36,Supplier TimberCo,12
+PRT-000441,Backboard,Walnut Wood,Walnut Wood Backboard 1600x100x12mm,L=1600mm;W=100mm;T=12mm,EA,4.43,Supplier GlassLab,31
+PRT-000442,Shelf,Pine Wood,Pine Wood Shelf 900x400x20mm,L=900mm;W=400mm;T=20mm,EA,3.03,Supplier FinishesPlus,15
+PRT-000443,Shelf,Pine Wood,Pine Wood Shelf 1800x120x12mm,L=1800mm;W=120mm;T=12mm,EA,2.06,Supplier EcoMaterials,34
+PRT-000444,Rail,Pine Wood,Pine Wood Rail 500x150x20mm,L=500mm;W=150mm;T=20mm,EA,2.14,Supplier MetalWorks,33
+PRT-000445,Glass Top,Tempered Glass,Tempered Glass Glass Top 1000x700mm,L=1000mm;W=700mm,EA,16.25,Supplier UpholsteryHub,19
+PRT-000446,Panel,Pine Wood,Pine Wood Panel 400x100x15mm,L=400mm;W=100mm;T=15mm,EA,1.52,Supplier PlastiCraft,4
+PRT-000447,Panel,Birch Plywood,Birch Plywood Panel 1000x200x25mm,L=1000mm;W=200mm;T=25mm,EA,3.71,Supplier PlastiCraft,20
+PRT-000448,Handle,Steel,Steel Handle,,EA,11.14,Supplier HardwareHouse,26
+PRT-000449,Leg,Walnut Wood,Walnut Wood Leg 600x120x30mm,L=600mm;W=120mm;T=30mm,EA,8.04,Supplier FastenPro,16
+PRT-000450,Shelf,MDF,MDF Shelf 1000x120x40mm,L=1000mm;W=120mm;T=40mm,EA,2.44,Supplier EcoMaterials,34
+PRT-000451,Washer,Stainless Steel,Stainless Steel Washer M6,Dia=6mm,EA,0.03,Supplier PrimeSupply,4
+PRT-000452,Screw,Steel,Steel Screw M3x40,Dia=3mm;Len=40mm,EA,0.05,Supplier EcoMaterials,32
+PRT-000453,Backboard,Oak Wood,Oak Wood Backboard 1600x120x30mm,L=1600mm;W=120mm;T=30mm,EA,3.64,Supplier TimberCo,13
+PRT-000454,Shelf,Pine Wood,Pine Wood Shelf 800x60x30mm,L=800mm;W=60mm;T=30mm,EA,1.4,Supplier HardwareHouse,5
+PRT-000455,Panel,Pine Wood,Pine Wood Panel 1600x40x25mm,L=1600mm;W=40mm;T=25mm,EA,2.38,Supplier GlassLab,8
+PRT-000456,Shelf,Birch Plywood,Birch Plywood Shelf 200x400x20mm,L=200mm;W=400mm;T=20mm,EA,1.77,Supplier MetalWorks,8
+PRT-000457,Washer,Steel,Steel Washer M5,Dia=5mm,EA,0.01,Supplier EcoMaterials,32
+PRT-000458,Screw,Stainless Steel,Stainless Steel Screw M6x25,Dia=6mm;Len=25mm,EA,0.16,Supplier PrimeSupply,24
+PRT-000459,Screw,Stainless Steel,Stainless Steel Screw M4x20,Dia=4mm;Len=20mm,EA,0.04,Supplier FinishesPlus,15
+PRT-000460,Slider,Acrylic,Acrylic Slider,,EA,13.73,Supplier HardwareHouse,5
+PRT-000461,Handle,ABS Plastic,ABS Plastic Handle,,EA,5.11,Supplier TimberCo,30
+PRT-000462,Screw,Steel,Steel Screw M3x16,Dia=3mm;Len=16mm,EA,0.02,Supplier PlastiCraft,28
+PRT-000463,Panel,Pine Wood,Pine Wood Panel 900x120x18mm,L=900mm;W=120mm;T=18mm,EA,1.9,Supplier MetalWorks,32
+PRT-000464,Paint Can,Paint,Paint Paint Can 1L,Volume=1L,EA,5.05,Supplier GlassLab,2
+PRT-000465,Beam,Birch Plywood,Birch Plywood Beam 1800x60x20mm,L=1800mm;W=60mm;T=20mm,EA,2.93,Supplier FinishesPlus,15
+PRT-000466,Shelf,Pine Wood,Pine Wood Shelf 500x60x20mm,L=500mm;W=60mm;T=20mm,EA,1.48,Supplier FinishesPlus,25
+PRT-000467,Washer,Brass,Brass Washer M5,Dia=5mm,EA,0.03,Supplier FastenPro,23
+PRT-000468,Rail,Oak Wood,Oak Wood Rail 800x200x12mm,L=800mm;W=200mm;T=12mm,EA,3.76,Supplier FastenPro,5
+PRT-000469,Leg,Birch Plywood,Birch Plywood Leg 1800x800x15mm,L=1800mm;W=800mm;T=15mm,EA,7.17,Supplier FinishesPlus,19
+PRT-000470,Screw,Steel,Steel Screw M8x30,Dia=8mm;Len=30mm,EA,0.06,Supplier GlassLab,22
+PRT-000471,Bolt,Steel,Steel Bolt M10x50,Dia=10mm;Len=50mm,EA,0.34,Supplier UpholsteryHub,30
+PRT-000472,Panel,Oak Wood,Oak Wood Panel 1200x100x20mm,L=1200mm;W=100mm;T=20mm,EA,3.55,Supplier UpholsteryHub,8
+PRT-000473,Backboard,Pine Wood,Pine Wood Backboard 700x80x40mm,L=700mm;W=80mm;T=40mm,EA,1.44,Supplier FinishesPlus,14
+PRT-000474,Rail,Walnut Wood,Walnut Wood Rail 300x80x20mm,L=300mm;W=80mm;T=20mm,EA,4.24,Supplier HardwareHouse,10
+PRT-000475,Nut,Steel,Steel Nut M4,Dia=4mm,EA,0.02,Supplier HardwareHouse,3
+PRT-000476,Shelf,Oak Wood,Oak Wood Shelf 1400x40x18mm,L=1400mm;W=40mm;T=18mm,EA,4.75,Supplier FastenPro,24
+PRT-000477,Rail,Pine Wood,Pine Wood Rail 1400x200x15mm,L=1400mm;W=200mm;T=15mm,EA,3.19,Supplier PrimeSupply,11
+PRT-000478,Bracket,Steel,Steel Bracket,,EA,2.59,Supplier HardwareHouse,18
+PRT-000479,Glass Top,Tempered Glass,Tempered Glass Glass Top 1400x600mm,L=1400mm;W=600mm,EA,39.36,Supplier TimberCo,16
+PRT-000480,Backboard,Bamboo,Bamboo Backboard 1000x120x18mm,L=1000mm;W=120mm;T=18mm,EA,2.93,Supplier EcoMaterials,5
+PRT-000481,Rail,Birch Plywood,Birch Plywood Rail 800x200x18mm,L=800mm;W=200mm;T=18mm,EA,3.12,Supplier FinishesPlus,15
+PRT-000482,Panel,Pine Wood,Pine Wood Panel 800x400x15mm,L=800mm;W=400mm;T=15mm,EA,2.45,Supplier MetalWorks,34
+PRT-000483,Slider,Polypropylene,Polypropylene Slider,,EA,6.16,Supplier PlastiCraft,21
+PRT-000484,Bolt,Steel,Steel Bolt M5x20,Dia=5mm;Len=20mm,EA,0.1,Supplier PlastiCraft,4
+PRT-000485,Drawer Front,MDF,MDF Drawer Front 900x60x30mm,L=900mm;W=60mm;T=30mm,EA,2.1,Supplier UpholsteryHub,32
+PRT-000486,Washer,Steel,Steel Washer M5,Dia=5mm,EA,0.01,Supplier PrimeSupply,2
+PRT-000487,Screw,Steel,Steel Screw M5x25,Dia=5mm;Len=25mm,EA,0.07,Supplier PrimeSupply,34
+PRT-000488,Hinge,Steel,Steel Hinge,,EA,1.95,Supplier EcoMaterials,19
+PRT-000489,Hinge,ABS Plastic,ABS Plastic Hinge,,EA,14.16,Supplier FastenPro,5
+PRT-000490,Glue Bottle,Glue,Glue Glue Bottle 1L,Volume=1L,EA,3.54,Supplier HardwareHouse,8
+PRT-000491,Backboard,Oak Wood,Oak Wood Backboard 1400x150x8mm,L=1400mm;W=150mm;T=8mm,EA,4.13,Supplier PlastiCraft,18
+PRT-000492,Rail,Pine Wood,Pine Wood Rail 1400x400x8mm,L=1400mm;W=400mm;T=8mm,EA,1.86,Supplier MetalWorks,6
+PRT-000493,Screw,Steel,Steel Screw M8x16,Dia=8mm;Len=16mm,EA,0.04,Supplier HardwareHouse,23
+PRT-000494,Drawer Front,Pine Wood,Pine Wood Drawer Front 1600x40x15mm,L=1600mm;W=40mm;T=15mm,EA,2.59,Supplier FastenPro,21
+PRT-000495,Drawer Front,Pine Wood,Pine Wood Drawer Front 900x300x25mm,L=900mm;W=300mm;T=25mm,EA,4.04,Supplier FinishesPlus,12
+PRT-000496,Panel,Walnut Wood,Walnut Wood Panel 900x120x50mm,L=900mm;W=120mm;T=50mm,EA,5.72,Supplier PlastiCraft,28
+PRT-000497,Handle,Polypropylene,Polypropylene Handle,,EA,3.17,Supplier MetalWorks,9
+PRT-000498,Fabric Cover,Fabric,Fabric Fabric Cover 1200x900mm,L=1200mm;W=900mm,EA,10.09,Supplier PlastiCraft,21
+PRT-000499,Panel,Birch Plywood,Birch Plywood Panel 500x100x18mm,L=500mm;W=100mm;T=18mm,EA,1.77,Supplier PlastiCraft,23
+PRT-000500,Handle,Steel,Steel Handle,,EA,6.91,Supplier TimberCo,30
+PRT-000501,Beam,Bamboo,Bamboo Beam 700x100x20mm,L=700mm;W=100mm;T=20mm,EA,3.71,Supplier FastenPro,17
+PRT-000502,Screw,Steel,Steel Screw M4x16,Dia=4mm;Len=16mm,EA,0.04,Supplier EcoMaterials,4
+PRT-000503,Screw,Steel,Steel Screw M8x12,Dia=8mm;Len=12mm,EA,0.05,Supplier HardwareHouse,27
+PRT-000504,Drawer Front,MDF,MDF Drawer Front 1000x40x18mm,L=1000mm;W=40mm;T=18mm,EA,1.7,Supplier UpholsteryHub,19
+PRT-000505,Washer,Brass,Brass Washer M6,Dia=6mm,EA,0.02,Supplier PlastiCraft,16
+PRT-000506,Panel,Pine Wood,Pine Wood Panel 900x500x20mm,L=900mm;W=500mm;T=20mm,EA,2.3,Supplier GlassLab,34
+PRT-000507,Backboard,Pine Wood,Pine Wood Backboard 900x100x12mm,L=900mm;W=100mm;T=12mm,EA,1.33,Supplier GlassLab,24
+PRT-000508,Varnish Can,Varnish,Varnish Varnish Can 1L,Volume=1L,EA,5.61,Supplier UpholsteryHub,32
+PRT-000509,Rail,Pine Wood,Pine Wood Rail 800x200x15mm,L=800mm;W=200mm;T=15mm,EA,1.62,Supplier FinishesPlus,29
+PRT-000510,Beam,Walnut Wood,Walnut Wood Beam 800x500x20mm,L=800mm;W=500mm;T=20mm,EA,6.57,Supplier MetalWorks,34
+PRT-000511,Drawer Front,Birch Plywood,Birch Plywood Drawer Front 500x300x25mm,L=500mm;W=300mm;T=25mm,EA,4.18,Supplier EcoMaterials,17
+PRT-000512,Leg,Birch Plywood,Birch Plywood Leg 1600x100x8mm,L=1600mm;W=100mm;T=8mm,EA,3.8,Supplier EcoMaterials,32
+PRT-000513,Panel,Pine Wood,Pine Wood Panel 300x400x18mm,L=300mm;W=400mm;T=18mm,EA,1.56,Supplier PlastiCraft,25
+PRT-000514,Screw,Stainless Steel,Stainless Steel Screw M5x25,Dia=5mm;Len=25mm,EA,0.09,Supplier PlastiCraft,2
+PRT-000515,Bolt,Steel,Steel Bolt M4x40,Dia=4mm;Len=40mm,EA,0.2,Supplier GlassLab,5
+PRT-000516,Nut,Steel,Steel Nut M3,Dia=3mm,EA,0.04,Supplier EcoMaterials,11
+PRT-000517,Glue Bottle,Glue,Glue Glue Bottle 1L,Volume=1L,EA,2.74,Supplier PlastiCraft,18
+PRT-000518,Fabric Cover,Fabric,Fabric Fabric Cover 1000x900mm,L=1000mm;W=900mm,EA,6.89,Supplier PlastiCraft,7
+PRT-000519,Bolt,Stainless Steel,Stainless Steel Bolt M6x10,Dia=6mm;Len=10mm,EA,0.09,Supplier MetalWorks,15
+PRT-000520,Panel,Pine Wood,Pine Wood Panel 1000x120x12mm,L=1000mm;W=120mm;T=12mm,EA,2.0,Supplier MetalWorks,14
+PRT-000521,Feet Pad,ABS Plastic,ABS Plastic Feet Pad,,EA,2.68,Supplier UpholsteryHub,15
+PRT-000522,Washer,Steel,Steel Washer M4,Dia=4mm,EA,0.02,Supplier PrimeSupply,14
+PRT-000523,Handle,Steel,Steel Handle,,EA,13.82,Supplier EcoMaterials,32
+PRT-000524,Leg,Pine Wood,Pine Wood Leg 1400x80x18mm,L=1400mm;W=80mm;T=18mm,EA,2.47,Supplier TimberCo,12
+PRT-000525,Glue Bottle,Glue,Glue Glue Bottle 1L,Volume=1L,EA,2.86,Supplier GlassLab,29
+PRT-000526,Leg,Pine Wood,Pine Wood Leg 1200x400x15mm,L=1200mm;W=400mm;T=15mm,EA,4.51,Supplier EcoMaterials,10
+PRT-000527,Beam,Oak Wood,Oak Wood Beam 800x200x8mm,L=800mm;W=200mm;T=8mm,EA,3.03,Supplier FastenPro,5
+PRT-000528,Shelf,Pine Wood,Pine Wood Shelf 1600x100x12mm,L=1600mm;W=100mm;T=12mm,EA,1.71,Supplier MetalWorks,34
+PRT-000529,Rail,Birch Plywood,Birch Plywood Rail 700x120x15mm,L=700mm;W=120mm;T=15mm,EA,4.13,Supplier PlastiCraft,28
+PRT-000530,Screw,Stainless Steel,Stainless Steel Screw M6x30,Dia=6mm;Len=30mm,EA,0.08,Supplier PlastiCraft,9
+PRT-000531,Leg,MDF,MDF Leg 1200x400x30mm,L=1200mm;W=400mm;T=30mm,EA,4.9,Supplier GlassLab,16
+PRT-000532,Bracket,Steel,Steel Bracket,,EA,3.92,Supplier GlassLab,3
+PRT-000533,Paint Can,Paint,Paint Paint Can 1L,Volume=1L,EA,4.57,Supplier PlastiCraft,7
+PRT-000534,Bracket,Polypropylene,Polypropylene Bracket,,EA,1.68,Supplier UpholsteryHub,20
+PRT-000535,Backboard,Birch Plywood,Birch Plywood Backboard 1400x300x15mm,L=1400mm;W=300mm;T=15mm,EA,3.95,Supplier TimberCo,20
+PRT-000536,Panel,Pine Wood,Pine Wood Panel 700x60x15mm,L=700mm;W=60mm;T=15mm,EA,1.67,Supplier HardwareHouse,33
+PRT-000537,Screw,Steel,Steel Screw M8x30,Dia=8mm;Len=30mm,EA,0.09,Supplier UpholsteryHub,2
+PRT-000538,Caster Wheel,Steel,Steel Caster Wheel,,EA,9.33,Supplier MetalWorks,18
+PRT-000539,Bolt,Stainless Steel,Stainless Steel Bolt M5x50,Dia=5mm;Len=50mm,EA,0.19,Supplier GlassLab,29
+PRT-000540,Screw,Steel,Steel Screw M3x30,Dia=3mm;Len=30mm,EA,0.05,Supplier FinishesPlus,16
+PRT-000541,Drawer Front,Pine Wood,Pine Wood Drawer Front 800x80x40mm,L=800mm;W=80mm;T=40mm,EA,1.95,Supplier UpholsteryHub,33
+PRT-000542,Caster Wheel,Stainless Steel,Stainless Steel Caster Wheel,,EA,11.74,Supplier UpholsteryHub,21
+PRT-000543,Screw,Stainless Steel,Stainless Steel Screw M8x16,Dia=8mm;Len=16mm,EA,0.08,Supplier GlassLab,3
+PRT-000544,Panel,Walnut Wood,Walnut Wood Panel 600x120x18mm,L=600mm;W=120mm;T=18mm,EA,6.92,Supplier EcoMaterials,31
+PRT-000545,Fabric Cover,Fabric,Fabric Fabric Cover 1000x800mm,L=1000mm;W=800mm,EA,4.48,Supplier TimberCo,15
+PRT-000546,Handle,Steel,Steel Handle,,EA,6.59,Supplier PrimeSupply,26
+PRT-000547,Backboard,Pine Wood,Pine Wood Backboard 900x100x30mm,L=900mm;W=100mm;T=30mm,EA,2.47,Supplier HardwareHouse,12
+PRT-000548,Rail,Birch Plywood,Birch Plywood Rail 400x120x18mm,L=400mm;W=120mm;T=18mm,EA,3.89,Supplier PrimeSupply,12
+PRT-000549,Screw,Brass,Brass Screw M5x40,Dia=5mm;Len=40mm,EA,0.07,Supplier PlastiCraft,14
+PRT-000550,Leg,MDF,MDF Leg 900x80x12mm,L=900mm;W=80mm;T=12mm,EA,1.68,Supplier UpholsteryHub,5
+PRT-000551,Screw,Stainless Steel,Stainless Steel Screw M5x16,Dia=5mm;Len=16mm,EA,0.1,Supplier GlassLab,7
+PRT-000552,Slider,Steel,Steel Slider,,EA,5.69,Supplier PlastiCraft,13
+PRT-000553,Handle,ABS Plastic,ABS Plastic Handle,,EA,3.82,Supplier GlassLab,26
+PRT-000554,Foam Insert,Foam,Foam Foam Insert 900x200x40mm,L=900mm;W=200mm;T=40mm,EA,3.93,Supplier HardwareHouse,29
+PRT-000555,Leg,Pine Wood,Pine Wood Leg 700x200x18mm,L=700mm;W=200mm;T=18mm,EA,1.77,Supplier FastenPro,28
+PRT-000556,Fabric Cover,Fabric,Fabric Fabric Cover 1200x900mm,L=1200mm;W=900mm,EA,5.95,Supplier UpholsteryHub,20
+PRT-000557,Leg,MDF,MDF Leg 500x300x18mm,L=500mm;W=300mm;T=18mm,EA,2.37,Supplier TimberCo,24
+PRT-000558,Glass Top,Tempered Glass,Tempered Glass Glass Top 1600x600mm,L=1600mm;W=600mm,EA,34.41,Supplier PrimeSupply,8
+PRT-000559,Panel,Birch Plywood,Birch Plywood Panel 1600x300x20mm,L=1600mm;W=300mm;T=20mm,EA,4.42,Supplier FinishesPlus,26
+PRT-000560,Bolt,Steel,Steel Bolt M8x20,Dia=8mm;Len=20mm,EA,0.09,Supplier PrimeSupply,28
+PRT-000561,Rail,MDF,MDF Rail 2000x800x20mm,L=2000mm;W=800mm;T=20mm,EA,5.84,Supplier TimberCo,26
+PRT-000562,Paint Can,Paint,Paint Paint Can 1L,Volume=1L,EA,4.41,Supplier PrimeSupply,2
+PRT-000563,Panel,Oak Wood,Oak Wood Panel 1200x400x18mm,L=1200mm;W=400mm;T=18mm,EA,6.06,Supplier PrimeSupply,18
+PRT-000564,Panel,Pine Wood,Pine Wood Panel 800x120x40mm,L=800mm;W=120mm;T=40mm,EA,1.88,Supplier TimberCo,30
+PRT-000565,Shelf,Walnut Wood,Walnut Wood Shelf 1000x60x50mm,L=1000mm;W=60mm;T=50mm,EA,3.97,Supplier FinishesPlus,34
+PRT-000566,Panel,Birch Plywood,Birch Plywood Panel 1000x400x15mm,L=1000mm;W=400mm;T=15mm,EA,6.3,Supplier PlastiCraft,28
+PRT-000567,Shelf,Pine Wood,Pine Wood Shelf 300x200x20mm,L=300mm;W=200mm;T=20mm,EA,3.57,Supplier MetalWorks,28
+PRT-000568,Panel,Bamboo,Bamboo Panel 1400x500x30mm,L=1400mm;W=500mm;T=30mm,EA,7.56,Supplier HardwareHouse,10
+PRT-000569,Glass Top,Tempered Glass,Tempered Glass Glass Top 1000x600mm,L=1000mm;W=600mm,EA,31.62,Supplier GlassLab,24
+PRT-000570,Hinge,ABS Plastic,ABS Plastic Hinge,,EA,4.14,Supplier UpholsteryHub,27
+PRT-000571,Backboard,Pine Wood,Pine Wood Backboard 1600x400x25mm,L=1600mm;W=400mm;T=25mm,EA,2.97,Supplier EcoMaterials,3
+PRT-000572,Fabric Cover,Leather,Leather Fabric Cover 1000x800mm,L=1000mm;W=800mm,EA,15.98,Supplier PlastiCraft,14
+PRT-000573,Hinge,Stainless Steel,Stainless Steel Hinge,,EA,6.7,Supplier PlastiCraft,32
+PRT-000574,Beam,Birch Plywood,Birch Plywood Beam 700x60x18mm,L=700mm;W=60mm;T=18mm,EA,2.84,Supplier EcoMaterials,31
+PRT-000575,Bracket,Steel,Steel Bracket,,EA,6.7,Supplier TimberCo,34
+PRT-000576,Bolt,Steel,Steel Bolt M5x40,Dia=5mm;Len=40mm,EA,0.08,Supplier FastenPro,21
+PRT-000577,Shelf,MDF,MDF Shelf 500x60x20mm,L=500mm;W=60mm;T=20mm,EA,1.05,Supplier HardwareHouse,11
+PRT-000578,Shelf,Pine Wood,Pine Wood Shelf 900x300x12mm,L=900mm;W=300mm;T=12mm,EA,2.03,Supplier PrimeSupply,19
+PRT-000579,Panel,Walnut Wood,Walnut Wood Panel 600x80x50mm,L=600mm;W=80mm;T=50mm,EA,8.56,Supplier FinishesPlus,13
+PRT-000580,Nut,Steel,Steel Nut M3,Dia=3mm,EA,0.01,Supplier MetalWorks,15
+PRT-000581,Glass Top,Tempered Glass,Tempered Glass Glass Top 1600x800mm,L=1600mm;W=800mm,EA,43.7,Supplier TimberCo,26
+PRT-000582,Slider,Steel,Steel Slider,,EA,12.49,Supplier HardwareHouse,5
+PRT-000583,Washer,Steel,Steel Washer M4,Dia=4mm,EA,0.02,Supplier HardwareHouse,6
+PRT-000584,Glass Top,Tempered Glass,Tempered Glass Glass Top 800x600mm,L=800mm;W=600mm,EA,31.8,Supplier UpholsteryHub,34
+PRT-000585,Panel,MDF,MDF Panel 600x600x25mm,L=600mm;W=600mm;T=25mm,EA,2.57,Supplier EcoMaterials,18
+PRT-000586,Beam,Oak Wood,Oak Wood Beam 200x200x20mm,L=200mm;W=200mm;T=20mm,EA,3.25,Supplier TimberCo,2
+PRT-000587,Foam Insert,Foam,Foam Foam Insert 400x100x50mm,L=400mm;W=100mm;T=50mm,EA,2.93,Supplier HardwareHouse,19
+PRT-000588,Drawer Front,Pine Wood,Pine Wood Drawer Front 1200x80x18mm,L=1200mm;W=80mm;T=18mm,EA,3.08,Supplier MetalWorks,11
+PRT-000589,Handle,Steel,Steel Handle,,EA,8.72,Supplier HardwareHouse,15
+PRT-000590,Shelf,MDF,MDF Shelf 700x120x18mm,L=700mm;W=120mm;T=18mm,EA,2.15,Supplier UpholsteryHub,9
+PRT-000591,Slider,Acrylic,Acrylic Slider,,EA,9.6,Supplier MetalWorks,7
+PRT-000592,Bracket,Steel,Steel Bracket,,EA,1.73,Supplier FastenPro,4
+PRT-000593,Nut,Brass,Brass Nut M8,Dia=8mm,EA,0.06,Supplier FinishesPlus,34
+PRT-000594,Washer,Brass,Brass Washer M6,Dia=6mm,EA,0.02,Supplier EcoMaterials,6
+PRT-000595,Shelf,Pine Wood,Pine Wood Shelf 1600x800x20mm,L=1600mm;W=800mm;T=20mm,EA,4.78,Supplier EcoMaterials,6
+PRT-000596,Screw,Steel,Steel Screw M4x12,Dia=4mm;Len=12mm,EA,0.04,Supplier GlassLab,28
+PRT-000597,Panel,Oak Wood,Oak Wood Panel 600x150x20mm,L=600mm;W=150mm;T=20mm,EA,3.77,Supplier MetalWorks,30
+PRT-000598,Backboard,Oak Wood,Oak Wood Backboard 1200x400x40mm,L=1200mm;W=400mm;T=40mm,EA,8.04,Supplier PlastiCraft,8
+PRT-000599,Screw,Brass,Brass Screw M6x30,Dia=6mm;Len=30mm,EA,0.09,Supplier GlassLab,34
+PRT-000600,Leg,Walnut Wood,Walnut Wood Leg 1000x300x30mm,L=1000mm;W=300mm;T=30mm,EA,9.99,Supplier UpholsteryHub,10
+PRT-000601,Varnish Can,Varnish,Varnish Varnish Can 1L,Volume=1L,EA,5.97,Supplier FinishesPlus,11
+PRT-000602,Beam,MDF,MDF Beam 1400x150x18mm,L=1400mm;W=150mm;T=18mm,EA,1.74,Supplier FinishesPlus,34
+PRT-000603,Bolt,Stainless Steel,Stainless Steel Bolt M8x30,Dia=8mm;Len=30mm,EA,0.13,Supplier TimberCo,7
+PRT-000604,Hinge,Polypropylene,Polypropylene Hinge,,EA,2.25,Supplier TimberCo,7
+PRT-000605,Beam,Birch Plywood,Birch Plywood Beam 1200x40x20mm,L=1200mm;W=40mm;T=20mm,EA,2.29,Supplier MetalWorks,34
+PRT-000606,Drawer Front,Pine Wood,Pine Wood Drawer Front 1200x100x18mm,L=1200mm;W=100mm;T=18mm,EA,2.26,Supplier FastenPro,6
+PRT-000607,Shelf,Walnut Wood,Walnut Wood Shelf 600x200x40mm,L=600mm;W=200mm;T=40mm,EA,5.64,Supplier TimberCo,2
+PRT-000608,Paint Can,Paint,Paint Paint Can 1L,Volume=1L,EA,5.78,Supplier EcoMaterials,13
+PRT-000609,Screw,Steel,Steel Screw M5x25,Dia=5mm;Len=25mm,EA,0.05,Supplier PlastiCraft,17
+PRT-000610,Shelf,Oak Wood,Oak Wood Shelf 700x100x20mm,L=700mm;W=100mm;T=20mm,EA,4.04,Supplier PlastiCraft,15
+PRT-000611,Hinge,Polypropylene,Polypropylene Hinge,,EA,4.76,Supplier MetalWorks,13
+PRT-000612,Foam Insert,Foam,Foam Foam Insert 300x300x50mm,L=300mm;W=300mm;T=50mm,EA,1.62,Supplier MetalWorks,23
+PRT-000613,Varnish Can,Varnish,Varnish Varnish Can 1L,Volume=1L,EA,5.71,Supplier FastenPro,5
+PRT-000614,Screw,Stainless Steel,Stainless Steel Screw M3x25,Dia=3mm;Len=25mm,EA,0.04,Supplier FastenPro,9
+PRT-000615,Beam,Pine Wood,Pine Wood Beam 600x100x18mm,L=600mm;W=100mm;T=18mm,EA,1.52,Supplier FastenPro,19
+PRT-000616,Bolt,Steel,Steel Bolt M3x50,Dia=3mm;Len=50mm,EA,0.06,Supplier FinishesPlus,33
+PRT-000617,Drawer Front,Birch Plywood,Birch Plywood Drawer Front 1000x60x8mm,L=1000mm;W=60mm;T=8mm,EA,3.43,Supplier FinishesPlus,6
+PRT-000618,Shelf,Pine Wood,Pine Wood Shelf 600x120x15mm,L=600mm;W=120mm;T=15mm,EA,2.58,Supplier UpholsteryHub,18
+PRT-000619,Hinge,Steel,Steel Hinge,,EA,1.95,Supplier PrimeSupply,16
+PRT-000620,Fabric Cover,Fabric,Fabric Fabric Cover 800x600mm,L=800mm;W=600mm,EA,3.67,Supplier UpholsteryHub,15
+PRT-000621,Slider,ABS Plastic,ABS Plastic Slider,,EA,3.58,Supplier FinishesPlus,13
+PRT-000622,Drawer Front,Oak Wood,Oak Wood Drawer Front 1200x60x40mm,L=1200mm;W=60mm;T=40mm,EA,7.23,Supplier GlassLab,14
+PRT-000623,Hinge,Steel,Steel Hinge,,EA,12.87,Supplier FinishesPlus,15
+PRT-000624,Screw,Steel,Steel Screw M4x40,Dia=4mm;Len=40mm,EA,0.11,Supplier PrimeSupply,15
+PRT-000625,Bracket,Polypropylene,Polypropylene Bracket,,EA,2.31,Supplier UpholsteryHub,34
+PRT-000626,Panel,Birch Plywood,Birch Plywood Panel 600x80x18mm,L=600mm;W=80mm;T=18mm,EA,3.24,Supplier HardwareHouse,16
+PRT-000627,Hinge,Acrylic,Acrylic Hinge,,EA,5.03,Supplier UpholsteryHub,9
+PRT-000628,Nut,Steel,Steel Nut M5,Dia=5mm,EA,0.03,Supplier EcoMaterials,31
+PRT-000629,Foam Insert,Foam,Foam Foam Insert 1200x100x60mm,L=1200mm;W=100mm;T=60mm,EA,2.0,Supplier HardwareHouse,33
+PRT-000630,Shelf,Birch Plywood,Birch Plywood Shelf 1000x500x25mm,L=1000mm;W=500mm;T=25mm,EA,7.51,Supplier PlastiCraft,3
+PRT-000631,Panel,Pine Wood,Pine Wood Panel 900x120x12mm,L=900mm;W=120mm;T=12mm,EA,2.79,Supplier MetalWorks,21
+PRT-000632,Backboard,MDF,MDF Backboard 800x400x25mm,L=800mm;W=400mm;T=25mm,EA,1.62,Supplier GlassLab,13
+PRT-000633,Leg,Pine Wood,Pine Wood Leg 700x100x12mm,L=700mm;W=100mm;T=12mm,EA,2.75,Supplier PlastiCraft,5
+PRT-000634,Caster Wheel,Aluminum,Aluminum Caster Wheel,,EA,16.6,Supplier UpholsteryHub,12
+PRT-000635,Shelf,Pine Wood,Pine Wood Shelf 800x80x12mm,L=800mm;W=80mm;T=12mm,EA,1.44,Supplier FinishesPlus,16
+PRT-000636,Washer,Steel,Steel Washer M6,Dia=6mm,EA,0.01,Supplier MetalWorks,17
+PRT-000637,Drawer Front,MDF,MDF Drawer Front 500x80x18mm,L=500mm;W=80mm;T=18mm,EA,2.08,Supplier FinishesPlus,29
+PRT-000638,Bolt,Steel,Steel Bolt M6x40,Dia=6mm;Len=40mm,EA,0.05,Supplier GlassLab,24
+PRT-000639,Hinge,Stainless Steel,Stainless Steel Hinge,,EA,10.25,Supplier FastenPro,22
+PRT-000640,Leg,Oak Wood,Oak Wood Leg 900x600x12mm,L=900mm;W=600mm;T=12mm,EA,5.42,Supplier UpholsteryHub,19
+PRT-000641,Foam Insert,Foam,Foam Foam Insert 200x200x60mm,L=200mm;W=200mm;T=60mm,EA,3.68,Supplier GlassLab,23
+PRT-000642,Drawer Front,Birch Plywood,Birch Plywood Drawer Front 500x40x12mm,L=500mm;W=40mm;T=12mm,EA,2.61,Supplier UpholsteryHub,7
+PRT-000643,Leg,Walnut Wood,Walnut Wood Leg 800x400x18mm,L=800mm;W=400mm;T=18mm,EA,6.79,Supplier UpholsteryHub,25
+PRT-000644,Caster Wheel,Aluminum,Aluminum Caster Wheel,,EA,7.13,Supplier EcoMaterials,17
+PRT-000645,Panel,Birch Plywood,Birch Plywood Panel 300x150x12mm,L=300mm;W=150mm;T=12mm,EA,1.9,Supplier MetalWorks,5
+PRT-000646,Washer,Steel,Steel Washer M4,Dia=4mm,EA,0.02,Supplier MetalWorks,10
+PRT-000647,Shelf,Pine Wood,Pine Wood Shelf 1000x40x12mm,L=1000mm;W=40mm;T=12mm,EA,2.45,Supplier TimberCo,28
+PRT-000648,Screw,Steel,Steel Screw M6x40,Dia=6mm;Len=40mm,EA,0.04,Supplier PrimeSupply,18
+PRT-000649,Shelf,Walnut Wood,Walnut Wood Shelf 2000x150x18mm,L=2000mm;W=150mm;T=18mm,EA,7.45,Supplier EcoMaterials,3
+PRT-000650,Panel,MDF,MDF Panel 1600x40x8mm,L=1600mm;W=40mm;T=8mm,EA,1.58,Supplier UpholsteryHub,21
+PRT-000651,Beam,Walnut Wood,Walnut Wood Beam 1000x40x40mm,L=1000mm;W=40mm;T=40mm,EA,5.14,Supplier EcoMaterials,20
+PRT-000652,Drawer Front,Oak Wood,Oak Wood Drawer Front 700x40x18mm,L=700mm;W=40mm;T=18mm,EA,3.89,Supplier FinishesPlus,13
+PRT-000653,Beam,Oak Wood,Oak Wood Beam 1000x800x12mm,L=1000mm;W=800mm;T=12mm,EA,3.72,Supplier PrimeSupply,22
+PRT-000654,Panel,Pine Wood,Pine Wood Panel 1400x80x12mm,L=1400mm;W=80mm;T=12mm,EA,1.74,Supplier FinishesPlus,25
+PRT-000655,Glass Top,Tempered Glass,Tempered Glass Glass Top 1200x500mm,L=1200mm;W=500mm,EA,15.21,Supplier FinishesPlus,8
+PRT-000656,Nut,Brass,Brass Nut M3,Dia=3mm,EA,0.05,Supplier PrimeSupply,4
+PRT-000657,Bolt,Brass,Brass Bolt M4x30,Dia=4mm;Len=30mm,EA,0.19,Supplier PrimeSupply,10
+PRT-000658,Fabric Cover,Fabric,Fabric Fabric Cover 1200x700mm,L=1200mm;W=700mm,EA,7.41,Supplier EcoMaterials,5
+PRT-000659,Glass Top,Tempered Glass,Tempered Glass Glass Top 1400x400mm,L=1400mm;W=400mm,EA,19.37,Supplier EcoMaterials,9
+PRT-000660,Bracket,Aluminum,Aluminum Bracket,,EA,8.52,Supplier PrimeSupply,25
+PRT-000661,Panel,Oak Wood,Oak Wood Panel 900x500x18mm,L=900mm;W=500mm;T=18mm,EA,6.74,Supplier MetalWorks,11
+PRT-000662,Shelf,Pine Wood,Pine Wood Shelf 600x80x20mm,L=600mm;W=80mm;T=20mm,EA,2.02,Supplier HardwareHouse,33
+PRT-000663,Beam,Walnut Wood,Walnut Wood Beam 1000x60x20mm,L=1000mm;W=60mm;T=20mm,EA,4.24,Supplier EcoMaterials,14
+PRT-000664,Drawer Front,MDF,MDF Drawer Front 500x150x20mm,L=500mm;W=150mm;T=20mm,EA,1.71,Supplier MetalWorks,32
+PRT-000665,Drawer Front,Oak Wood,Oak Wood Drawer Front 1000x120x25mm,L=1000mm;W=120mm;T=25mm,EA,4.24,Supplier MetalWorks,6
+PRT-000666,Handle,Stainless Steel,Stainless Steel Handle,,EA,13.77,Supplier TimberCo,9
+PRT-000667,Shelf,MDF,MDF Shelf 700x60x15mm,L=700mm;W=60mm;T=15mm,EA,1.68,Supplier FastenPro,10
+PRT-000668,Bolt,Stainless Steel,Stainless Steel Bolt M6x30,Dia=6mm;Len=30mm,EA,0.32,Supplier EcoMaterials,11
+PRT-000669,Feet Pad,Aluminum,Aluminum Feet Pad,,EA,2.37,Supplier EcoMaterials,6
+PRT-000670,Drawer Front,Pine Wood,Pine Wood Drawer Front 1200x150x8mm,L=1200mm;W=150mm;T=8mm,EA,2.19,Supplier EcoMaterials,21
+PRT-000671,Screw,Steel,Steel Screw M5x50,Dia=5mm;Len=50mm,EA,0.11,Supplier EcoMaterials,17
+PRT-000672,Nut,Steel,Steel Nut M6,Dia=6mm,EA,0.02,Supplier MetalWorks,2
+PRT-000673,Slider,Steel,Steel Slider,,EA,7.71,Supplier FastenPro,21
+PRT-000674,Screw,Brass,Brass Screw M4x12,Dia=4mm;Len=12mm,EA,0.06,Supplier UpholsteryHub,18
+PRT-000675,Shelf,Oak Wood,Oak Wood Shelf 1000x100x25mm,L=1000mm;W=100mm;T=25mm,EA,4.59,Supplier UpholsteryHub,20
+PRT-000676,Glass Top,Tempered Glass,Tempered Glass Glass Top 1600x600mm,L=1600mm;W=600mm,EA,63.15,Supplier PrimeSupply,9
+PRT-000677,Shelf,Oak Wood,Oak Wood Shelf 800x300x18mm,L=800mm;W=300mm;T=18mm,EA,5.43,Supplier FinishesPlus,25
+PRT-000678,Leg,MDF,MDF Leg 500x100x12mm,L=500mm;W=100mm;T=12mm,EA,1.63,Supplier HardwareHouse,21
+PRT-000679,Shelf,Pine Wood,Pine Wood Shelf 900x300x12mm,L=900mm;W=300mm;T=12mm,EA,1.98,Supplier PlastiCraft,4
+PRT-000680,Panel,Oak Wood,Oak Wood Panel 600x400x8mm,L=600mm;W=400mm;T=8mm,EA,3.91,Supplier GlassLab,26
+PRT-000681,Backboard,Walnut Wood,Walnut Wood Backboard 500x80x8mm,L=500mm;W=80mm;T=8mm,EA,3.84,Supplier UpholsteryHub,2
+PRT-000682,Beam,Birch Plywood,Birch Plywood Beam 800x120x15mm,L=800mm;W=120mm;T=15mm,EA,2.8,Supplier PrimeSupply,28
+PRT-000683,Beam,Pine Wood,Pine Wood Beam 1200x100x50mm,L=1200mm;W=100mm;T=50mm,EA,2.12,Supplier GlassLab,19
+PRT-000684,Screw,Steel,Steel Screw M8x10,Dia=8mm;Len=10mm,EA,0.04,Supplier GlassLab,28
+PRT-000685,Panel,Walnut Wood,Walnut Wood Panel 800x120x20mm,L=800mm;W=120mm;T=20mm,EA,5.45,Supplier PlastiCraft,23
+PRT-000686,Glue Bottle,Glue,Glue Glue Bottle 1L,Volume=1L,EA,1.99,Supplier HardwareHouse,10
+PRT-000687,Beam,Pine Wood,Pine Wood Beam 600x60x25mm,L=600mm;W=60mm;T=25mm,EA,2.06,Supplier FinishesPlus,22
+PRT-000688,Backboard,Oak Wood,Oak Wood Backboard 500x500x8mm,L=500mm;W=500mm;T=8mm,EA,4.32,Supplier FinishesPlus,20
+PRT-000689,Leg,MDF,MDF Leg 800x100x8mm,L=800mm;W=100mm;T=8mm,EA,1.79,Supplier GlassLab,21
+PRT-000690,Shelf,Pine Wood,Pine Wood Shelf 900x100x30mm,L=900mm;W=100mm;T=30mm,EA,3.04,Supplier UpholsteryHub,25
+PRT-000691,Feet Pad,Polypropylene,Polypropylene Feet Pad,,EA,0.82,Supplier TimberCo,20
+PRT-000692,Shelf,Pine Wood,Pine Wood Shelf 500x60x15mm,L=500mm;W=60mm;T=15mm,EA,2.16,Supplier FastenPro,24
+PRT-000693,Shelf,Pine Wood,Pine Wood Shelf 700x80x25mm,L=700mm;W=80mm;T=25mm,EA,3.78,Supplier FastenPro,20
+PRT-000694,Leg,Walnut Wood,Walnut Wood Leg 1400x100x20mm,L=1400mm;W=100mm;T=20mm,EA,6.03,Supplier UpholsteryHub,4
+PRT-000695,Panel,MDF,MDF Panel 600x200x18mm,L=600mm;W=200mm;T=18mm,EA,2.14,Supplier MetalWorks,8
+PRT-000696,Screw,Steel,Steel Screw M8x10,Dia=8mm;Len=10mm,EA,0.07,Supplier EcoMaterials,17
+PRT-000697,Bolt,Steel,Steel Bolt M6x30,Dia=6mm;Len=30mm,EA,0.08,Supplier FinishesPlus,9
+PRT-000698,Screw,Steel,Steel Screw M5x20,Dia=5mm;Len=20mm,EA,0.08,Supplier FinishesPlus,2
+PRT-000699,Foam Insert,Foam,Foam Foam Insert 200x40x40mm,L=200mm;W=40mm;T=40mm,EA,3.76,Supplier PrimeSupply,29
+PRT-000700,Foam Insert,Foam,Foam Foam Insert 700x40x100mm,L=700mm;W=40mm;T=100mm,EA,4.12,Supplier GlassLab,29
+PRT-000701,Panel,Birch Plywood,Birch Plywood Panel 800x500x40mm,L=800mm;W=500mm;T=40mm,EA,6.68,Supplier FinishesPlus,18
+PRT-000702,Shelf,Oak Wood,Oak Wood Shelf 300x100x18mm,L=300mm;W=100mm;T=18mm,EA,3.79,Supplier PrimeSupply,17
+PRT-000703,Glass Top,Tempered Glass,Tempered Glass Glass Top 600x800mm,L=600mm;W=800mm,EA,28.94,Supplier TimberCo,8
+PRT-000704,Paint Can,Paint,Paint Paint Can 1L,Volume=1L,EA,3.18,Supplier UpholsteryHub,16
+PRT-000705,Backboard,MDF,MDF Backboard 400x80x15mm,L=400mm;W=80mm;T=15mm,EA,1.0,Supplier FinishesPlus,29
+PRT-000706,Screw,Steel,Steel Screw M8x25,Dia=8mm;Len=25mm,EA,0.08,Supplier PrimeSupply,19
+PRT-000707,Screw,Steel,Steel Screw M4x20,Dia=4mm;Len=20mm,EA,0.05,Supplier GlassLab,7
+PRT-000708,Glue Bottle,Glue,Glue Glue Bottle 1L,Volume=1L,EA,3.4,Supplier EcoMaterials,10
+PRT-000709,Beam,Oak Wood,Oak Wood Beam 700x200x40mm,L=700mm;W=200mm;T=40mm,EA,8.51,Supplier FastenPro,28
+PRT-000710,Shelf,Oak Wood,Oak Wood Shelf 400x400x18mm,L=400mm;W=400mm;T=18mm,EA,3.46,Supplier GlassLab,2
+PRT-000711,Hinge,Steel,Steel Hinge,,EA,5.37,Supplier FinishesPlus,24
+PRT-000712,Beam,Walnut Wood,Walnut Wood Beam 1400x60x18mm,L=1400mm;W=60mm;T=18mm,EA,5.86,Supplier EcoMaterials,6
+PRT-000713,Screw,Steel,Steel Screw M6x40,Dia=6mm;Len=40mm,EA,0.04,Supplier PrimeSupply,13
+PRT-000714,Screw,Steel,Steel Screw M8x30,Dia=8mm;Len=30mm,EA,0.08,Supplier FastenPro,6
+PRT-000715,Caster Wheel,Steel,Steel Caster Wheel,,EA,8.76,Supplier UpholsteryHub,31
+PRT-000716,Leg,MDF,MDF Leg 500x60x20mm,L=500mm;W=60mm;T=20mm,EA,1.66,Supplier TimberCo,15
+PRT-000717,Slider,Stainless Steel,Stainless Steel Slider,,EA,7.13,Supplier PrimeSupply,5
+PRT-000718,Shelf,Pine Wood,Pine Wood Shelf 1200x120x25mm,L=1200mm;W=120mm;T=25mm,EA,1.41,Supplier UpholsteryHub,26
+PRT-000719,Glue Bottle,Glue,Glue Glue Bottle 1L,Volume=1L,EA,1.97,Supplier UpholsteryHub,12
+PRT-000720,Caster Wheel,Polypropylene,Polypropylene Caster Wheel,,EA,2.3,Supplier EcoMaterials,9
+PRT-000721,Bolt,Steel,Steel Bolt M5x25,Dia=5mm;Len=25mm,EA,0.09,Supplier GlassLab,15
+PRT-000722,Drawer Front,Pine Wood,Pine Wood Drawer Front 300x300x8mm,L=300mm;W=300mm;T=8mm,EA,1.63,Supplier MetalWorks,31
+PRT-000723,Glue Bottle,Glue,Glue Glue Bottle 1L,Volume=1L,EA,2.07,Supplier TimberCo,2
+PRT-000724,Beam,Oak Wood,Oak Wood Beam 500x40x40mm,L=500mm;W=40mm;T=40mm,EA,3.96,Supplier PlastiCraft,27
+PRT-000725,Shelf,MDF,MDF Shelf 1200x100x12mm,L=1200mm;W=100mm;T=12mm,EA,1.79,Supplier UpholsteryHub,15
+PRT-000726,Slider,Steel,Steel Slider,,EA,6.49,Supplier HardwareHouse,13
+PRT-000727,Glass Top,Tempered Glass,Tempered Glass Glass Top 800x700mm,L=800mm;W=700mm,EA,16.36,Supplier PlastiCraft,23
+PRT-000728,Slider,Polypropylene,Polypropylene Slider,,EA,6.53,Supplier TimberCo,11
+PRT-000729,Shelf,Pine Wood,Pine Wood Shelf 500x60x30mm,L=500mm;W=60mm;T=30mm,EA,1.68,Supplier FinishesPlus,8
+PRT-000730,Rail,MDF,MDF Rail 1800x100x8mm,L=1800mm;W=100mm;T=8mm,EA,2.28,Supplier MetalWorks,11
+PRT-000731,Bracket,Steel,Steel Bracket,,EA,3.57,Supplier GlassLab,21
+PRT-000732,Hinge,Aluminum,Aluminum Hinge,,EA,7.26,Supplier TimberCo,21
+PRT-000733,Beam,Pine Wood,Pine Wood Beam 600x150x15mm,L=600mm;W=150mm;T=15mm,EA,1.44,Supplier EcoMaterials,16
+PRT-000734,Backboard,Pine Wood,Pine Wood Backboard 1600x500x8mm,L=1600mm;W=500mm;T=8mm,EA,3.35,Supplier UpholsteryHub,9
+PRT-000735,Drawer Front,Pine Wood,Pine Wood Drawer Front 300x40x12mm,L=300mm;W=40mm;T=12mm,EA,2.06,Supplier PrimeSupply,4
+PRT-000736,Feet Pad,Polypropylene,Polypropylene Feet Pad,,EA,1.74,Supplier TimberCo,24
+PRT-000737,Foam Insert,Foam,Foam Foam Insert 400x150x40mm,L=400mm;W=150mm;T=40mm,EA,2.91,Supplier GlassLab,4
+PRT-000738,Washer,Steel,Steel Washer M5,Dia=5mm,EA,0.01,Supplier EcoMaterials,12
+PRT-000739,Fabric Cover,Fabric,Fabric Fabric Cover 1200x700mm,L=1200mm;W=700mm,EA,5.77,Supplier PlastiCraft,14
+PRT-000740,Bolt,Steel,Steel Bolt M3x40,Dia=3mm;Len=40mm,EA,0.12,Supplier EcoMaterials,33
+PRT-000741,Shelf,Pine Wood,Pine Wood Shelf 400x100x18mm,L=400mm;W=100mm;T=18mm,EA,2.07,Supplier GlassLab,10
+PRT-000742,Shelf,MDF,MDF Shelf 800x300x8mm,L=800mm;W=300mm;T=8mm,EA,1.1,Supplier PlastiCraft,33
+PRT-000743,Panel,Pine Wood,Pine Wood Panel 800x100x12mm,L=800mm;W=100mm;T=12mm,EA,2.33,Supplier EcoMaterials,22
+PRT-000744,Leg,Walnut Wood,Walnut Wood Leg 800x400x8mm,L=800mm;W=400mm;T=8mm,EA,10.11,Supplier FastenPro,20
+PRT-000745,Panel,MDF,MDF Panel 1800x100x30mm,L=1800mm;W=100mm;T=30mm,EA,1.63,Supplier FastenPro,2
+PRT-000746,Panel,Oak Wood,Oak Wood Panel 200x800x20mm,L=200mm;W=800mm;T=20mm,EA,3.25,Supplier PrimeSupply,22
+PRT-000747,Backboard,MDF,MDF Backboard 1000x120x15mm,L=1000mm;W=120mm;T=15mm,EA,1.59,Supplier FastenPro,12
+PRT-000748,Drawer Front,Pine Wood,Pine Wood Drawer Front 1600x80x20mm,L=1600mm;W=80mm;T=20mm,EA,2.72,Supplier UpholsteryHub,20
+PRT-000749,Washer,Steel,Steel Washer M10,Dia=10mm,EA,0.02,Supplier UpholsteryHub,26
+PRT-000750,Drawer Front,MDF,MDF Drawer Front 500x100x25mm,L=500mm;W=100mm;T=25mm,EA,1.18,Supplier MetalWorks,31
+PRT-000751,Shelf,Walnut Wood,Walnut Wood Shelf 700x200x15mm,L=700mm;W=200mm;T=15mm,EA,8.3,Supplier FinishesPlus,25
+PRT-000752,Leg,Oak Wood,Oak Wood Leg 600x500x18mm,L=600mm;W=500mm;T=18mm,EA,9.34,Supplier HardwareHouse,32
+PRT-000753,Backboard,Bamboo,Bamboo Backboard 600x40x12mm,L=600mm;W=40mm;T=12mm,EA,2.8,Supplier GlassLab,14
+PRT-000754,Slider,Aluminum,Aluminum Slider,,EA,8.88,Supplier PrimeSupply,13
+PRT-000755,Bolt,Steel,Steel Bolt M5x25,Dia=5mm;Len=25mm,EA,0.04,Supplier TimberCo,32
+PRT-000756,Drawer Front,Pine Wood,Pine Wood Drawer Front 1400x120x50mm,L=1400mm;W=120mm;T=50mm,EA,3.25,Supplier UpholsteryHub,14
+PRT-000757,Slider,Aluminum,Aluminum Slider,,EA,5.32,Supplier PlastiCraft,31
+PRT-000758,Bolt,Brass,Brass Bolt M5x20,Dia=5mm;Len=20mm,EA,0.14,Supplier HardwareHouse,15
+PRT-000759,Hinge,Aluminum,Aluminum Hinge,,EA,4.6,Supplier UpholsteryHub,29
+PRT-000760,Bolt,Brass,Brass Bolt M8x40,Dia=8mm;Len=40mm,EA,0.35,Supplier HardwareHouse,2
+PRT-000761,Nut,Steel,Steel Nut M8,Dia=8mm,EA,0.02,Supplier TimberCo,10
+PRT-000762,Nut,Brass,Brass Nut M8,Dia=8mm,EA,0.02,Supplier GlassLab,19
+PRT-000763,Drawer Front,Walnut Wood,Walnut Wood Drawer Front 1800x400x15mm,L=1800mm;W=400mm;T=15mm,EA,7.31,Supplier MetalWorks,33
+PRT-000764,Drawer Front,MDF,MDF Drawer Front 1200x400x12mm,L=1200mm;W=400mm;T=12mm,EA,2.21,Supplier GlassLab,34
+PRT-000765,Shelf,Birch Plywood,Birch Plywood Shelf 300x150x25mm,L=300mm;W=150mm;T=25mm,EA,1.54,Supplier TimberCo,30
+PRT-000766,Shelf,Pine Wood,Pine Wood Shelf 1200x40x15mm,L=1200mm;W=40mm;T=15mm,EA,2.72,Supplier PrimeSupply,27
+PRT-000767,Screw,Stainless Steel,Stainless Steel Screw M6x40,Dia=6mm;Len=40mm,EA,0.09,Supplier FastenPro,31
+PRT-000768,Shelf,Oak Wood,Oak Wood Shelf 900x150x30mm,L=900mm;W=150mm;T=30mm,EA,3.97,Supplier PlastiCraft,12
+PRT-000769,Beam,Birch Plywood,Birch Plywood Beam 1000x80x8mm,L=1000mm;W=80mm;T=8mm,EA,2.6,Supplier PlastiCraft,10
+PRT-000770,Shelf,Pine Wood,Pine Wood Shelf 300x60x18mm,L=300mm;W=60mm;T=18mm,EA,2.9,Supplier UpholsteryHub,8
+PRT-000771,Screw,Stainless Steel,Stainless Steel Screw M8x20,Dia=8mm;Len=20mm,EA,0.08,Supplier GlassLab,10
+PRT-000772,Washer,Steel,Steel Washer M6,Dia=6mm,EA,0.01,Supplier EcoMaterials,30
+PRT-000773,Panel,Pine Wood,Pine Wood Panel 200x150x20mm,L=200mm;W=150mm;T=20mm,EA,1.89,Supplier MetalWorks,3
+PRT-000774,Screw,Steel,Steel Screw M4x20,Dia=4mm;Len=20mm,EA,0.04,Supplier MetalWorks,13
+PRT-000775,Hinge,Stainless Steel,Stainless Steel Hinge,,EA,7.37,Supplier UpholsteryHub,6
+PRT-000776,Leg,MDF,MDF Leg 700x100x50mm,L=700mm;W=100mm;T=50mm,EA,2.34,Supplier PlastiCraft,10
+PRT-000777,Screw,Steel,Steel Screw M4x25,Dia=4mm;Len=25mm,EA,0.04,Supplier UpholsteryHub,28
+PRT-000778,Panel,Bamboo,Bamboo Panel 500x100x8mm,L=500mm;W=100mm;T=8mm,EA,2.57,Supplier TimberCo,29
+PRT-000779,Panel,Walnut Wood,Walnut Wood Panel 700x150x18mm,L=700mm;W=150mm;T=18mm,EA,6.26,Supplier FastenPro,9
+PRT-000780,Rail,Pine Wood,Pine Wood Rail 1000x120x20mm,L=1000mm;W=120mm;T=20mm,EA,2.13,Supplier HardwareHouse,22
+PRT-000781,Panel,Pine Wood,Pine Wood Panel 1800x80x18mm,L=1800mm;W=80mm;T=18mm,EA,1.44,Supplier PlastiCraft,23
+PRT-000782,Varnish Can,Varnish,Varnish Varnish Can 1L,Volume=1L,EA,5.12,Supplier PrimeSupply,12
+PRT-000783,Drawer Front,Pine Wood,Pine Wood Drawer Front 300x40x18mm,L=300mm;W=40mm;T=18mm,EA,1.4,Supplier HardwareHouse,6
+PRT-000784,Bolt,Steel,Steel Bolt M3x40,Dia=3mm;Len=40mm,EA,0.08,Supplier GlassLab,6
+PRT-000785,Rail,Pine Wood,Pine Wood Rail 500x500x12mm,L=500mm;W=500mm;T=12mm,EA,3.46,Supplier GlassLab,12
+PRT-000786,Bolt,Steel,Steel Bolt M5x50,Dia=5mm;Len=50mm,EA,0.12,Supplier GlassLab,7
+PRT-000787,Handle,Steel,Steel Handle,,EA,6.65,Supplier GlassLab,4
+PRT-000788,Washer,Stainless Steel,Stainless Steel Washer M8,Dia=8mm,EA,0.03,Supplier FinishesPlus,7
+PRT-000789,Panel,Oak Wood,Oak Wood Panel 1600x120x20mm,L=1600mm;W=120mm;T=20mm,EA,5.0,Supplier GlassLab,30
+PRT-000790,Handle,Aluminum,Aluminum Handle,,EA,5.92,Supplier MetalWorks,25
+PRT-000791,Leg,Bamboo,Bamboo Leg 400x300x40mm,L=400mm;W=300mm;T=40mm,EA,4.81,Supplier EcoMaterials,30
+PRT-000792,Washer,Steel,Steel Washer M4,Dia=4mm,EA,0.02,Supplier TimberCo,16
+PRT-000793,Washer,Stainless Steel,Stainless Steel Washer M6,Dia=6mm,EA,0.02,Supplier GlassLab,27
+PRT-000794,Varnish Can,Varnish,Varnish Varnish Can 1L,Volume=1L,EA,4.61,Supplier PrimeSupply,15
+PRT-000795,Shelf,Bamboo,Bamboo Shelf 200x400x30mm,L=200mm;W=400mm;T=30mm,EA,4.37,Supplier FastenPro,24
+PRT-000796,Backboard,Birch Plywood,Birch Plywood Backboard 700x500x18mm,L=700mm;W=500mm;T=18mm,EA,2.18,Supplier FinishesPlus,21
+PRT-000797,Backboard,Bamboo,Bamboo Backboard 500x500x50mm,L=500mm;W=500mm;T=50mm,EA,5.59,Supplier FastenPro,22
+PRT-000798,Nut,Brass,Brass Nut M5,Dia=5mm,EA,0.04,Supplier FastenPro,30
+PRT-000799,Screw,Steel,Steel Screw M3x12,Dia=3mm;Len=12mm,EA,0.02,Supplier FastenPro,26
+PRT-000800,Drawer Front,MDF,MDF Drawer Front 300x60x30mm,L=300mm;W=60mm;T=30mm,EA,2.03,Supplier EcoMaterials,9
+PRT-000801,Bracket,Steel,Steel Bracket,,EA,2.44,Supplier EcoMaterials,11
+PRT-000802,Caster Wheel,Aluminum,Aluminum Caster Wheel,,EA,6.75,Supplier TimberCo,11
+PRT-000803,Fabric Cover,Fabric,Fabric Fabric Cover 1000x800mm,L=1000mm;W=800mm,EA,8.8,Supplier GlassLab,24
+PRT-000804,Hinge,Steel,Steel Hinge,,EA,6.29,Supplier PrimeSupply,25
+PRT-000805,Nut,Steel,Steel Nut M5,Dia=5mm,EA,0.02,Supplier FinishesPlus,32
+PRT-000806,Beam,Birch Plywood,Birch Plywood Beam 1600x60x30mm,L=1600mm;W=60mm;T=30mm,EA,2.61,Supplier UpholsteryHub,3
+PRT-000807,Screw,Steel,Steel Screw M5x50,Dia=5mm;Len=50mm,EA,0.08,Supplier MetalWorks,10
+PRT-000808,Drawer Front,Oak Wood,Oak Wood Drawer Front 600x40x15mm,L=600mm;W=40mm;T=15mm,EA,3.82,Supplier PrimeSupply,24
+PRT-000809,Backboard,Birch Plywood,Birch Plywood Backboard 800x100x12mm,L=800mm;W=100mm;T=12mm,EA,3.25,Supplier EcoMaterials,31
+PRT-000810,Screw,Steel,Steel Screw M4x40,Dia=4mm;Len=40mm,EA,0.04,Supplier PlastiCraft,24
+PRT-000811,Rail,Pine Wood,Pine Wood Rail 1200x40x25mm,L=1200mm;W=40mm;T=25mm,EA,1.54,Supplier EcoMaterials,23
+PRT-000812,Leg,Oak Wood,Oak Wood Leg 1000x500x18mm,L=1000mm;W=500mm;T=18mm,EA,8.44,Supplier GlassLab,6
+PRT-000813,Washer,Stainless Steel,Stainless Steel Washer M3,Dia=3mm,EA,0.01,Supplier FastenPro,33
+PRT-000814,Beam,Pine Wood,Pine Wood Beam 1200x800x30mm,L=1200mm;W=800mm;T=30mm,EA,2.81,Supplier FinishesPlus,15
+PRT-000815,Screw,Stainless Steel,Stainless Steel Screw M8x12,Dia=8mm;Len=12mm,EA,0.1,Supplier UpholsteryHub,27
+PRT-000816,Screw,Steel,Steel Screw M10x60,Dia=10mm;Len=60mm,EA,0.07,Supplier PrimeSupply,20
+PRT-000817,Shelf,Pine Wood,Pine Wood Shelf 400x200x30mm,L=400mm;W=200mm;T=30mm,EA,3.62,Supplier UpholsteryHub,32
+PRT-000818,Shelf,Oak Wood,Oak Wood Shelf 500x150x50mm,L=500mm;W=150mm;T=50mm,EA,4.58,Supplier GlassLab,16
+PRT-000819,Beam,MDF,MDF Beam 1400x300x15mm,L=1400mm;W=300mm;T=15mm,EA,2.2,Supplier PrimeSupply,21
+PRT-000820,Fabric Cover,Fabric,Fabric Fabric Cover 1000x600mm,L=1000mm;W=600mm,EA,5.1,Supplier PrimeSupply,10
+PRT-000821,Rail,Birch Plywood,Birch Plywood Rail 800x120x15mm,L=800mm;W=120mm;T=15mm,EA,2.97,Supplier HardwareHouse,18
+PRT-000822,Panel,Birch Plywood,Birch Plywood Panel 2000x40x50mm,L=2000mm;W=40mm;T=50mm,EA,4.49,Supplier PrimeSupply,12
+PRT-000823,Varnish Can,Varnish,Varnish Varnish Can 1L,Volume=1L,EA,8.91,Supplier UpholsteryHub,8
+PRT-000824,Handle,ABS Plastic,ABS Plastic Handle,,EA,3.62,Supplier TimberCo,27
+PRT-000825,Nut,Steel,Steel Nut M5,Dia=5mm,EA,0.03,Supplier MetalWorks,19
+PRT-000826,Handle,Steel,Steel Handle,,EA,8.69,Supplier PrimeSupply,3
+PRT-000827,Nut,Steel,Steel Nut M8,Dia=8mm,EA,0.03,Supplier EcoMaterials,14
+PRT-000828,Backboard,Walnut Wood,Walnut Wood Backboard 1600x150x15mm,L=1600mm;W=150mm;T=15mm,EA,5.93,Supplier GlassLab,12
+PRT-000829,Bolt,Steel,Steel Bolt M6x25,Dia=6mm;Len=25mm,EA,0.09,Supplier PrimeSupply,20
+PRT-000830,Bolt,Stainless Steel,Stainless Steel Bolt M4x30,Dia=4mm;Len=30mm,EA,0.22,Supplier FastenPro,24
+PRT-000831,Backboard,Pine Wood,Pine Wood Backboard 1600x400x50mm,L=1600mm;W=400mm;T=50mm,EA,4.59,Supplier PrimeSupply,31
+PRT-000832,Caster Wheel,Aluminum,Aluminum Caster Wheel,,EA,8.68,Supplier GlassLab,28
+PRT-000833,Panel,Pine Wood,Pine Wood Panel 700x150x25mm,L=700mm;W=150mm;T=25mm,EA,1.92,Supplier PlastiCraft,30
+PRT-000834,Rail,Pine Wood,Pine Wood Rail 600x400x25mm,L=600mm;W=400mm;T=25mm,EA,2.72,Supplier PlastiCraft,22
+PRT-000835,Beam,Walnut Wood,Walnut Wood Beam 2000x40x30mm,L=2000mm;W=40mm;T=30mm,EA,7.05,Supplier TimberCo,34
+PRT-000836,Caster Wheel,Steel,Steel Caster Wheel,,EA,6.86,Supplier FastenPro,30
+PRT-000837,Shelf,Birch Plywood,Birch Plywood Shelf 500x80x18mm,L=500mm;W=80mm;T=18mm,EA,2.26,Supplier MetalWorks,33
+PRT-000838,Leg,Oak Wood,Oak Wood Leg 800x200x50mm,L=800mm;W=200mm;T=50mm,EA,3.69,Supplier FinishesPlus,30
+PRT-000839,Beam,Birch Plywood,Birch Plywood Beam 400x400x20mm,L=400mm;W=400mm;T=20mm,EA,2.8,Supplier FastenPro,30
+PRT-000840,Screw,Steel,Steel Screw M3x50,Dia=3mm;Len=50mm,EA,0.05,Supplier EcoMaterials,30
+PRT-000841,Panel,Birch Plywood,Birch Plywood Panel 700x150x20mm,L=700mm;W=150mm;T=20mm,EA,2.18,Supplier FastenPro,32
+PRT-000842,Beam,MDF,MDF Beam 400x40x15mm,L=400mm;W=40mm;T=15mm,EA,1.7,Supplier EcoMaterials,27
+PRT-000843,Bolt,Steel,Steel Bolt M8x50,Dia=8mm;Len=50mm,EA,0.2,Supplier GlassLab,23
+PRT-000844,Caster Wheel,Steel,Steel Caster Wheel,,EA,5.77,Supplier TimberCo,3
+PRT-000845,Slider,Steel,Steel Slider,,EA,16.04,Supplier PlastiCraft,18
+PRT-000846,Panel,Oak Wood,Oak Wood Panel 700x60x20mm,L=700mm;W=60mm;T=20mm,EA,4.47,Supplier FastenPro,7
+PRT-000847,Bracket,Stainless Steel,Stainless Steel Bracket,,EA,5.51,Supplier EcoMaterials,31
+PRT-000848,Backboard,Pine Wood,Pine Wood Backboard 600x80x8mm,L=600mm;W=80mm;T=8mm,EA,1.03,Supplier FastenPro,7
+PRT-000849,Leg,Birch Plywood,Birch Plywood Leg 400x40x12mm,L=400mm;W=40mm;T=12mm,EA,3.54,Supplier PlastiCraft,7
+PRT-000850,Nut,Stainless Steel,Stainless Steel Nut M8,Dia=8mm,EA,0.03,Supplier UpholsteryHub,28
+PRT-000851,Nut,Stainless Steel,Stainless Steel Nut M5,Dia=5mm,EA,0.03,Supplier GlassLab,26
+PRT-000852,Handle,Steel,Steel Handle,,EA,12.63,Supplier GlassLab,3
+PRT-000853,Screw,Steel,Steel Screw M8x10,Dia=8mm;Len=10mm,EA,0.03,Supplier MetalWorks,13
+PRT-000854,Panel,Oak Wood,Oak Wood Panel 1000x60x30mm,L=1000mm;W=60mm;T=30mm,EA,4.74,Supplier UpholsteryHub,9
+PRT-000855,Drawer Front,Pine Wood,Pine Wood Drawer Front 1600x600x40mm,L=1600mm;W=600mm;T=40mm,EA,10.81,Supplier UpholsteryHub,29
+PRT-000856,Drawer Front,Pine Wood,Pine Wood Drawer Front 1000x60x8mm,L=1000mm;W=60mm;T=8mm,EA,2.19,Supplier HardwareHouse,13
+PRT-000857,Rail,Oak Wood,Oak Wood Rail 300x120x12mm,L=300mm;W=120mm;T=12mm,EA,3.48,Supplier HardwareHouse,2
+PRT-000858,Backboard,Pine Wood,Pine Wood Backboard 600x600x30mm,L=600mm;W=600mm;T=30mm,EA,2.3,Supplier PrimeSupply,10
+PRT-000859,Handle,ABS Plastic,ABS Plastic Handle,,EA,3.42,Supplier UpholsteryHub,9
+PRT-000860,Leg,Oak Wood,Oak Wood Leg 600x400x18mm,L=600mm;W=400mm;T=18mm,EA,4.36,Supplier TimberCo,31
+PRT-000861,Nut,Steel,Steel Nut M5,Dia=5mm,EA,0.01,Supplier FastenPro,9
+PRT-000862,Nut,Stainless Steel,Stainless Steel Nut M8,Dia=8mm,EA,0.05,Supplier PlastiCraft,14
+PRT-000863,Panel,Birch Plywood,Birch Plywood Panel 300x300x12mm,L=300mm;W=300mm;T=12mm,EA,2.89,Supplier GlassLab,34
+PRT-000864,Beam,Birch Plywood,Birch Plywood Beam 300x800x8mm,L=300mm;W=800mm;T=8mm,EA,3.0,Supplier PrimeSupply,29
+PRT-000865,Shelf,Pine Wood,Pine Wood Shelf 200x40x25mm,L=200mm;W=40mm;T=25mm,EA,1.98,Supplier UpholsteryHub,31
+PRT-000866,Nut,Steel,Steel Nut M4,Dia=4mm,EA,0.01,Supplier FinishesPlus,33
+PRT-000867,Screw,Stainless Steel,Stainless Steel Screw M8x20,Dia=8mm;Len=20mm,EA,0.06,Supplier UpholsteryHub,26
+PRT-000868,Paint Can,Paint,Paint Paint Can 1L,Volume=1L,EA,7.37,Supplier UpholsteryHub,13
+PRT-000869,Panel,Oak Wood,Oak Wood Panel 300x800x15mm,L=300mm;W=800mm;T=15mm,EA,3.45,Supplier TimberCo,10
+PRT-000870,Paint Can,Paint,Paint Paint Can 1L,Volume=1L,EA,3.76,Supplier EcoMaterials,29
+PRT-000871,Nut,Stainless Steel,Stainless Steel Nut M3,Dia=3mm,EA,0.02,Supplier MetalWorks,30
+PRT-000872,Glass Top,Tempered Glass,Tempered Glass Glass Top 1400x700mm,L=1400mm;W=700mm,EA,41.08,Supplier GlassLab,32
+PRT-000873,Washer,Steel,Steel Washer M8,Dia=8mm,EA,0.02,Supplier PrimeSupply,5
+PRT-000874,Handle,Polypropylene,Polypropylene Handle,,EA,3.61,Supplier EcoMaterials,7
+PRT-000875,Fabric Cover,Fabric,Fabric Fabric Cover 1000x900mm,L=1000mm;W=900mm,EA,14.6,Supplier EcoMaterials,13
+PRT-000876,Rail,Birch Plywood,Birch Plywood Rail 400x80x30mm,L=400mm;W=80mm;T=30mm,EA,3.69,Supplier HardwareHouse,4
+PRT-000877,Screw,Steel,Steel Screw M5x12,Dia=5mm;Len=12mm,EA,0.04,Supplier GlassLab,32
+PRT-000878,Handle,Steel,Steel Handle,,EA,11.38,Supplier HardwareHouse,24
+PRT-000879,Shelf,Pine Wood,Pine Wood Shelf 400x120x18mm,L=400mm;W=120mm;T=18mm,EA,2.09,Supplier PlastiCraft,30
+PRT-000880,Bracket,Aluminum,Aluminum Bracket,,EA,6.73,Supplier UpholsteryHub,24
+PRT-000881,Foam Insert,Foam,Foam Foam Insert 1200x200x80mm,L=1200mm;W=200mm;T=80mm,EA,2.67,Supplier GlassLab,30
+PRT-000882,Drawer Front,Oak Wood,Oak Wood Drawer Front 500x500x40mm,L=500mm;W=500mm;T=40mm,EA,9.61,Supplier PlastiCraft,15
+PRT-000883,Beam,Bamboo,Bamboo Beam 1000x600x20mm,L=1000mm;W=600mm;T=20mm,EA,5.12,Supplier FinishesPlus,26
+PRT-000884,Feet Pad,Polypropylene,Polypropylene Feet Pad,,EA,2.69,Supplier FinishesPlus,18
+PRT-000885,Foam Insert,Foam,Foam Foam Insert 800x300x80mm,L=800mm;W=300mm;T=80mm,EA,3.19,Supplier TimberCo,2
+PRT-000886,Panel,Oak Wood,Oak Wood Panel 700x600x50mm,L=700mm;W=600mm;T=50mm,EA,9.59,Supplier EcoMaterials,29
+PRT-000887,Screw,Stainless Steel,Stainless Steel Screw M5x40,Dia=5mm;Len=40mm,EA,0.09,Supplier FastenPro,17
+PRT-000888,Drawer Front,Pine Wood,Pine Wood Drawer Front 600x120x18mm,L=600mm;W=120mm;T=18mm,EA,1.94,Supplier PlastiCraft,26
+PRT-000889,Slider,Acrylic,Acrylic Slider,,EA,6.78,Supplier GlassLab,10
+PRT-000890,Bolt,Steel,Steel Bolt M4x20,Dia=4mm;Len=20mm,EA,0.05,Supplier GlassLab,19
+PRT-000891,Panel,Walnut Wood,Walnut Wood Panel 700x40x15mm,L=700mm;W=40mm;T=15mm,EA,8.65,Supplier PlastiCraft,21
+PRT-000892,Panel,Walnut Wood,Walnut Wood Panel 1000x60x18mm,L=1000mm;W=60mm;T=18mm,EA,4.84,Supplier PrimeSupply,19
+PRT-000893,Slider,Steel,Steel Slider,,EA,7.39,Supplier PrimeSupply,6
+PRT-000894,Nut,Steel,Steel Nut M6,Dia=6mm,EA,0.02,Supplier UpholsteryHub,24
+PRT-000895,Panel,Oak Wood,Oak Wood Panel 500x120x12mm,L=500mm;W=120mm;T=12mm,EA,3.74,Supplier MetalWorks,33
+PRT-000896,Feet Pad,Steel,Steel Feet Pad,,EA,3.59,Supplier GlassLab,4
+PRT-000897,Drawer Front,Bamboo,Bamboo Drawer Front 1600x120x25mm,L=1600mm;W=120mm;T=25mm,EA,4.17,Supplier FastenPro,30
+PRT-000898,Shelf,Pine Wood,Pine Wood Shelf 400x200x20mm,L=400mm;W=200mm;T=20mm,EA,2.24,Supplier FinishesPlus,6
+PRT-000899,Rail,Bamboo,Bamboo Rail 1200x60x12mm,L=1200mm;W=60mm;T=12mm,EA,2.47,Supplier UpholsteryHub,13
+PRT-000900,Bracket,Steel,Steel Bracket,,EA,2.09,Supplier TimberCo,3
+PRT-000901,Hinge,Steel,Steel Hinge,,EA,4.35,Supplier GlassLab,22
+PRT-000902,Leg,Birch Plywood,Birch Plywood Leg 600x150x20mm,L=600mm;W=150mm;T=20mm,EA,3.13,Supplier FastenPro,15
+PRT-000903,Bracket,Polypropylene,Polypropylene Bracket,,EA,0.98,Supplier FastenPro,20
+PRT-000904,Feet Pad,Steel,Steel Feet Pad,,EA,1.19,Supplier HardwareHouse,3
+PRT-000905,Glass Top,Tempered Glass,Tempered Glass Glass Top 1400x600mm,L=1400mm;W=600mm,EA,32.66,Supplier FinishesPlus,33
+PRT-000906,Beam,Birch Plywood,Birch Plywood Beam 200x200x8mm,L=200mm;W=200mm;T=8mm,EA,2.52,Supplier GlassLab,2
+PRT-000907,Backboard,MDF,MDF Backboard 600x600x18mm,L=600mm;W=600mm;T=18mm,EA,2.25,Supplier GlassLab,32
+PRT-000908,Beam,Birch Plywood,Birch Plywood Beam 1600x500x20mm,L=1600mm;W=500mm;T=20mm,EA,3.8,Supplier FastenPro,18
+PRT-000909,Shelf,Oak Wood,Oak Wood Shelf 600x80x8mm,L=600mm;W=80mm;T=8mm,EA,3.71,Supplier GlassLab,2
+PRT-000910,Bolt,Steel,Steel Bolt M6x25,Dia=6mm;Len=25mm,EA,0.05,Supplier MetalWorks,27
+PRT-000911,Bolt,Stainless Steel,Stainless Steel Bolt M6x40,Dia=6mm;Len=40mm,EA,0.31,Supplier UpholsteryHub,25
+PRT-000912,Drawer Front,Walnut Wood,Walnut Wood Drawer Front 300x300x25mm,L=300mm;W=300mm;T=25mm,EA,7.92,Supplier MetalWorks,4
+PRT-000913,Beam,Birch Plywood,Birch Plywood Beam 1200x40x8mm,L=1200mm;W=40mm;T=8mm,EA,2.05,Supplier FastenPro,13
+PRT-000914,Panel,Pine Wood,Pine Wood Panel 500x40x12mm,L=500mm;W=40mm;T=12mm,EA,1.65,Supplier HardwareHouse,14
+PRT-000915,Handle,ABS Plastic,ABS Plastic Handle,,EA,7.8,Supplier PrimeSupply,17
+PRT-000916,Leg,Pine Wood,Pine Wood Leg 500x500x30mm,L=500mm;W=500mm;T=30mm,EA,2.08,Supplier PrimeSupply,22
+PRT-000917,Handle,Polypropylene,Polypropylene Handle,,EA,5.67,Supplier TimberCo,28
+PRT-000918,Washer,Steel,Steel Washer M5,Dia=5mm,EA,0.01,Supplier MetalWorks,33
+PRT-000919,Rail,Pine Wood,Pine Wood Rail 400x100x12mm,L=400mm;W=100mm;T=12mm,EA,1.82,Supplier PrimeSupply,26
+PRT-000920,Shelf,Walnut Wood,Walnut Wood Shelf 600x800x20mm,L=600mm;W=800mm;T=20mm,EA,9.31,Supplier HardwareHouse,27
+PRT-000921,Shelf,Oak Wood,Oak Wood Shelf 600x120x15mm,L=600mm;W=120mm;T=15mm,EA,3.19,Supplier PlastiCraft,7
+PRT-000922,Paint Can,Paint,Paint Paint Can 1L,Volume=1L,EA,3.84,Supplier FastenPro,11
+PRT-000923,Backboard,Pine Wood,Pine Wood Backboard 500x120x20mm,L=500mm;W=120mm;T=20mm,EA,1.76,Supplier HardwareHouse,14
+PRT-000924,Washer,Stainless Steel,Stainless Steel Washer M4,Dia=4mm,EA,0.02,Supplier EcoMaterials,15
+PRT-000925,Slider,Steel,Steel Slider,,EA,11.19,Supplier GlassLab,13
+PRT-000926,Leg,MDF,MDF Leg 500x300x30mm,L=500mm;W=300mm;T=30mm,EA,2.96,Supplier UpholsteryHub,5
+PRT-000927,Beam,Pine Wood,Pine Wood Beam 600x500x25mm,L=600mm;W=500mm;T=25mm,EA,2.33,Supplier PrimeSupply,5
+PRT-000928,Handle,ABS Plastic,ABS Plastic Handle,,EA,3.92,Supplier MetalWorks,21
+PRT-000929,Leg,Pine Wood,Pine Wood Leg 300x800x18mm,L=300mm;W=800mm;T=18mm,EA,3.61,Supplier PlastiCraft,8
+PRT-000930,Backboard,Birch Plywood,Birch Plywood Backboard 1200x500x15mm,L=1200mm;W=500mm;T=15mm,EA,2.24,Supplier EcoMaterials,15
+PRT-000931,Shelf,MDF,MDF Shelf 700x100x20mm,L=700mm;W=100mm;T=20mm,EA,2.17,Supplier FastenPro,13
+PRT-000932,Panel,Birch Plywood,Birch Plywood Panel 400x400x15mm,L=400mm;W=400mm;T=15mm,EA,2.87,Supplier FastenPro,19
+PRT-000933,Glass Top,Tempered Glass,Tempered Glass Glass Top 1000x600mm,L=1000mm;W=600mm,EA,21.88,Supplier PlastiCraft,5
+PRT-000934,Shelf,MDF,MDF Shelf 1600x80x40mm,L=1600mm;W=80mm;T=40mm,EA,2.32,Supplier PrimeSupply,25
+PRT-000935,Panel,Oak Wood,Oak Wood Panel 700x120x50mm,L=700mm;W=120mm;T=50mm,EA,3.68,Supplier PrimeSupply,2
+PRT-000936,Panel,Birch Plywood,Birch Plywood Panel 400x40x12mm,L=400mm;W=40mm;T=12mm,EA,1.78,Supplier PlastiCraft,16
+PRT-000937,Beam,Birch Plywood,Birch Plywood Beam 700x150x50mm,L=700mm;W=150mm;T=50mm,EA,2.11,Supplier PlastiCraft,19
+PRT-000938,Glue Bottle,Glue,Glue Glue Bottle 1L,Volume=1L,EA,2.37,Supplier MetalWorks,16
+PRT-000939,Slider,Acrylic,Acrylic Slider,,EA,15.44,Supplier PlastiCraft,14
+PRT-000940,Backboard,Pine Wood,Pine Wood Backboard 500x300x18mm,L=500mm;W=300mm;T=18mm,EA,1.24,Supplier HardwareHouse,24
+PRT-000941,Bolt,Stainless Steel,Stainless Steel Bolt M5x30,Dia=5mm;Len=30mm,EA,0.08,Supplier FastenPro,13
+PRT-000942,Bracket,Steel,Steel Bracket,,EA,8.05,Supplier TimberCo,33
+PRT-000943,Slider,Aluminum,Aluminum Slider,,EA,6.84,Supplier EcoMaterials,15
+PRT-000944,Screw,Steel,Steel Screw M8x50,Dia=8mm;Len=50mm,EA,0.12,Supplier FastenPro,30
+PRT-000945,Shelf,MDF,MDF Shelf 1800x200x50mm,L=1800mm;W=200mm;T=50mm,EA,5.48,Supplier GlassLab,24
+PRT-000946,Screw,Steel,Steel Screw M4x40,Dia=4mm;Len=40mm,EA,0.08,Supplier PrimeSupply,24
+PRT-000947,Beam,Birch Plywood,Birch Plywood Beam 1800x150x8mm,L=1800mm;W=150mm;T=8mm,EA,1.6,Supplier TimberCo,17
+PRT-000948,Caster Wheel,Steel,Steel Caster Wheel,,EA,8.54,Supplier TimberCo,32
+PRT-000949,Slider,Polypropylene,Polypropylene Slider,,EA,4.38,Supplier MetalWorks,24
+PRT-000950,Fabric Cover,Fabric,Fabric Fabric Cover 800x700mm,L=800mm;W=700mm,EA,4.88,Supplier EcoMaterials,5
+PRT-000951,Panel,Oak Wood,Oak Wood Panel 900x400x18mm,L=900mm;W=400mm;T=18mm,EA,4.35,Supplier MetalWorks,31
+PRT-000952,Fabric Cover,Leather,Leather Fabric Cover 800x800mm,L=800mm;W=800mm,EA,14.53,Supplier MetalWorks,19
+PRT-000953,Leg,Bamboo,Bamboo Leg 900x40x18mm,L=900mm;W=40mm;T=18mm,EA,4.26,Supplier HardwareHouse,8
+PRT-000954,Bracket,Steel,Steel Bracket,,EA,6.53,Supplier PlastiCraft,11
+PRT-000955,Beam,MDF,MDF Beam 600x300x40mm,L=600mm;W=300mm;T=40mm,EA,2.03,Supplier FinishesPlus,2
+PRT-000956,Screw,Steel,Steel Screw M8x16,Dia=8mm;Len=16mm,EA,0.03,Supplier GlassLab,2
+PRT-000957,Shelf,Pine Wood,Pine Wood Shelf 1400x150x25mm,L=1400mm;W=150mm;T=25mm,EA,1.86,Supplier PlastiCraft,12
+PRT-000958,Glass Top,Tempered Glass,Tempered Glass Glass Top 1200x700mm,L=1200mm;W=700mm,EA,28.54,Supplier UpholsteryHub,8
+PRT-000959,Fabric Cover,Fabric,Fabric Fabric Cover 800x800mm,L=800mm;W=800mm,EA,2.82,Supplier PrimeSupply,27
+PRT-000960,Hinge,Stainless Steel,Stainless Steel Hinge,,EA,10.89,Supplier GlassLab,18
+PRT-000961,Panel,Pine Wood,Pine Wood Panel 700x40x12mm,L=700mm;W=40mm;T=12mm,EA,2.38,Supplier GlassLab,22
+PRT-000962,Screw,Steel,Steel Screw M8x40,Dia=8mm;Len=40mm,EA,0.11,Supplier PrimeSupply,24
+PRT-000963,Shelf,MDF,MDF Shelf 900x60x25mm,L=900mm;W=60mm;T=25mm,EA,1.75,Supplier FastenPro,20
+PRT-000964,Screw,Stainless Steel,Stainless Steel Screw M8x25,Dia=8mm;Len=25mm,EA,0.08,Supplier UpholsteryHub,9
+PRT-000965,Varnish Can,Varnish,Varnish Varnish Can 1L,Volume=1L,EA,5.99,Supplier UpholsteryHub,22
+PRT-000966,Beam,Walnut Wood,Walnut Wood Beam 900x300x50mm,L=900mm;W=300mm;T=50mm,EA,14.06,Supplier FinishesPlus,12
+PRT-000967,Beam,Oak Wood,Oak Wood Beam 800x600x20mm,L=800mm;W=600mm;T=20mm,EA,4.37,Supplier GlassLab,26
+PRT-000968,Panel,Pine Wood,Pine Wood Panel 900x40x12mm,L=900mm;W=40mm;T=12mm,EA,1.88,Supplier PrimeSupply,24
+PRT-000969,Beam,Pine Wood,Pine Wood Beam 1400x120x15mm,L=1400mm;W=120mm;T=15mm,EA,2.93,Supplier FastenPro,24
+PRT-000970,Glue Bottle,Glue,Glue Glue Bottle 1L,Volume=1L,EA,3.57,Supplier FinishesPlus,27
+PRT-000971,Screw,Steel,Steel Screw M5x10,Dia=5mm;Len=10mm,EA,0.06,Supplier UpholsteryHub,24
+PRT-000972,Hinge,Steel,Steel Hinge,,EA,7.64,Supplier HardwareHouse,27
+PRT-000973,Backboard,Oak Wood,Oak Wood Backboard 1600x150x20mm,L=1600mm;W=150mm;T=20mm,EA,4.88,Supplier TimberCo,3
+PRT-000974,Backboard,MDF,MDF Backboard 1000x400x15mm,L=1000mm;W=400mm;T=15mm,EA,3.06,Supplier MetalWorks,9
+PRT-000975,Leg,Pine Wood,Pine Wood Leg 500x60x18mm,L=500mm;W=60mm;T=18mm,EA,2.37,Supplier UpholsteryHub,27
+PRT-000976,Bracket,Aluminum,Aluminum Bracket,,EA,5.2,Supplier EcoMaterials,17
+PRT-000977,Shelf,Walnut Wood,Walnut Wood Shelf 1000x600x30mm,L=1000mm;W=600mm;T=30mm,EA,10.14,Supplier UpholsteryHub,23
+PRT-000978,Panel,Birch Plywood,Birch Plywood Panel 1400x200x12mm,L=1400mm;W=200mm;T=12mm,EA,3.54,Supplier GlassLab,8
+PRT-000979,Washer,Steel,Steel Washer M8,Dia=8mm,EA,0.04,Supplier PlastiCraft,8
+PRT-000980,Fabric Cover,Leather,Leather Fabric Cover 800x800mm,L=800mm;W=800mm,EA,9.59,Supplier FastenPro,9
+PRT-000981,Panel,Pine Wood,Pine Wood Panel 1000x40x18mm,L=1000mm;W=40mm;T=18mm,EA,1.72,Supplier FinishesPlus,3
+PRT-000982,Hinge,Stainless Steel,Stainless Steel Hinge,,EA,10.59,Supplier PrimeSupply,17
+PRT-000983,Drawer Front,MDF,MDF Drawer Front 1000x100x12mm,L=1000mm;W=100mm;T=12mm,EA,1.88,Supplier FinishesPlus,34
+PRT-000984,Feet Pad,Steel,Steel Feet Pad,,EA,3.0,Supplier PrimeSupply,17
+PRT-000985,Backboard,Pine Wood,Pine Wood Backboard 500x150x25mm,L=500mm;W=150mm;T=25mm,EA,2.81,Supplier UpholsteryHub,24
+PRT-000986,Washer,Steel,Steel Washer M4,Dia=4mm,EA,0.01,Supplier FastenPro,14
+PRT-000987,Backboard,Oak Wood,Oak Wood Backboard 200x400x50mm,L=200mm;W=400mm;T=50mm,EA,3.03,Supplier EcoMaterials,11
+PRT-000988,Screw,Brass,Brass Screw M6x30,Dia=6mm;Len=30mm,EA,0.24,Supplier FinishesPlus,34
+PRT-000989,Washer,Steel,Steel Washer M6,Dia=6mm,EA,0.02,Supplier GlassLab,3
+PRT-000990,Panel,Pine Wood,Pine Wood Panel 400x300x20mm,L=400mm;W=300mm;T=20mm,EA,1.27,Supplier GlassLab,20
+PRT-000991,Drawer Front,MDF,MDF Drawer Front 400x100x18mm,L=400mm;W=100mm;T=18mm,EA,1.48,Supplier EcoMaterials,27
+PRT-000992,Bolt,Steel,Steel Bolt M5x25,Dia=5mm;Len=25mm,EA,0.06,Supplier MetalWorks,16
+PRT-000993,Handle,Aluminum,Aluminum Handle,,EA,7.46,Supplier PrimeSupply,22
+PRT-000994,Beam,Pine Wood,Pine Wood Beam 400x150x25mm,L=400mm;W=150mm;T=25mm,EA,1.59,Supplier UpholsteryHub,8
+PRT-000995,Drawer Front,Pine Wood,Pine Wood Drawer Front 1000x120x15mm,L=1000mm;W=120mm;T=15mm,EA,3.16,Supplier TimberCo,33
+PRT-000996,Screw,Brass,Brass Screw M5x16,Dia=5mm;Len=16mm,EA,0.16,Supplier TimberCo,32
+PRT-000997,Beam,MDF,MDF Beam 900x500x50mm,L=900mm;W=500mm;T=50mm,EA,3.35,Supplier FastenPro,33
+PRT-000998,Leg,Oak Wood,Oak Wood Leg 800x80x18mm,L=800mm;W=80mm;T=18mm,EA,4.51,Supplier FinishesPlus,5
+PRT-000999,Screw,Steel,Steel Screw M4x30,Dia=4mm;Len=30mm,EA,0.05,Supplier EcoMaterials,20
+PRT-001000,Bolt,Stainless Steel,Stainless Steel Bolt M10x50,Dia=10mm;Len=50mm,EA,0.33,Supplier UpholsteryHub,10
+PRT-001001,Shelf,MDF,MDF Shelf 1200x300x30mm,L=1200mm;W=300mm;T=30mm,EA,2.48,Supplier FinishesPlus,31
+PRT-001002,Washer,Steel,Steel Washer M8,Dia=8mm,EA,0.02,Supplier MetalWorks,32
+PRT-001003,Backboard,Birch Plywood,Birch Plywood Backboard 600x120x40mm,L=600mm;W=120mm;T=40mm,EA,1.87,Supplier HardwareHouse,33
+PRT-001004,Handle,Polypropylene,Polypropylene Handle,,EA,3.65,Supplier GlassLab,22
+PRT-001005,Shelf,Pine Wood,Pine Wood Shelf 1200x300x25mm,L=1200mm;W=300mm;T=25mm,EA,3.73,Supplier TimberCo,23
+PRT-001006,Handle,Aluminum,Aluminum Handle,,EA,8.39,Supplier FastenPro,9
+PRT-001007,Screw,Steel,Steel Screw M6x16,Dia=6mm;Len=16mm,EA,0.04,Supplier EcoMaterials,23
+PRT-001008,Panel,MDF,MDF Panel 500x300x18mm,L=500mm;W=300mm;T=18mm,EA,2.03,Supplier UpholsteryHub,9
+PRT-001009,Beam,Birch Plywood,Birch Plywood Beam 1200x100x18mm,L=1200mm;W=100mm;T=18mm,EA,2.43,Supplier GlassLab,11
+PRT-001010,Backboard,Walnut Wood,Walnut Wood Backboard 600x60x40mm,L=600mm;W=60mm;T=40mm,EA,4.2,Supplier FastenPro,16
+PRT-001011,Caster Wheel,Steel,Steel Caster Wheel,,EA,10.29,Supplier TimberCo,13
+PRT-001012,Shelf,MDF,MDF Shelf 200x400x8mm,L=200mm;W=400mm;T=8mm,EA,1.82,Supplier PlastiCraft,11
+PRT-001013,Screw,Brass,Brass Screw M8x12,Dia=8mm;Len=12mm,EA,0.08,Supplier UpholsteryHub,18
+PRT-001014,Hinge,Steel,Steel Hinge,,EA,4.17,Supplier EcoMaterials,29
+PRT-001015,Paint Can,Paint,Paint Paint Can 1L,Volume=1L,EA,7.09,Supplier HardwareHouse,9
+PRT-001016,Slider,Aluminum,Aluminum Slider,,EA,18.82,Supplier FastenPro,2
+PRT-001017,Leg,Birch Plywood,Birch Plywood Leg 1200x100x40mm,L=1200mm;W=100mm;T=40mm,EA,4.06,Supplier FastenPro,19
+PRT-001018,Backboard,Oak Wood,Oak Wood Backboard 700x400x18mm,L=700mm;W=400mm;T=18mm,EA,6.19,Supplier EcoMaterials,16
+PRT-001019,Fabric Cover,Fabric,Fabric Fabric Cover 800x700mm,L=800mm;W=700mm,EA,7.17,Supplier EcoMaterials,2
+PRT-001020,Paint Can,Paint,Paint Paint Can 1L,Volume=1L,EA,4.99,Supplier MetalWorks,5
+PRT-001021,Bolt,Steel,Steel Bolt M4x20,Dia=4mm;Len=20mm,EA,0.06,Supplier HardwareHouse,24
+PRT-001022,Drawer Front,Birch Plywood,Birch Plywood Drawer Front 1200x150x18mm,L=1200mm;W=150mm;T=18mm,EA,3.22,Supplier TimberCo,23
+PRT-001023,Washer,Stainless Steel,Stainless Steel Washer M4,Dia=4mm,EA,0.02,Supplier HardwareHouse,22
+PRT-001024,Panel,Birch Plywood,Birch Plywood Panel 300x200x20mm,L=300mm;W=200mm;T=20mm,EA,3.28,Supplier UpholsteryHub,5
+PRT-001025,Glass Top,Tempered Glass,Tempered Glass Glass Top 1600x800mm,L=1600mm;W=800mm,EA,40.39,Supplier FinishesPlus,12
+PRT-001026,Varnish Can,Varnish,Varnish Varnish Can 1L,Volume=1L,EA,3.8,Supplier UpholsteryHub,25
+PRT-001027,Washer,Steel,Steel Washer M8,Dia=8mm,EA,0.01,Supplier UpholsteryHub,14
+PRT-001028,Beam,Oak Wood,Oak Wood Beam 2000x100x18mm,L=2000mm;W=100mm;T=18mm,EA,4.38,Supplier TimberCo,4
+PRT-001029,Beam,Birch Plywood,Birch Plywood Beam 400x150x30mm,L=400mm;W=150mm;T=30mm,EA,2.03,Supplier MetalWorks,4
+PRT-001030,Leg,Walnut Wood,Walnut Wood Leg 1800x200x25mm,L=1800mm;W=200mm;T=25mm,EA,11.76,Supplier EcoMaterials,12
+PRT-001031,Nut,Steel,Steel Nut M5,Dia=5mm,EA,0.01,Supplier UpholsteryHub,23
+PRT-001032,Handle,Steel,Steel Handle,,EA,9.2,Supplier FastenPro,10
+PRT-001033,Paint Can,Paint,Paint Paint Can 1L,Volume=1L,EA,8.16,Supplier FastenPro,22
+PRT-001034,Foam Insert,Foam,Foam Foam Insert 1200x120x60mm,L=1200mm;W=120mm;T=60mm,EA,3.54,Supplier FinishesPlus,4
+PRT-001035,Backboard,Bamboo,Bamboo Backboard 800x80x25mm,L=800mm;W=80mm;T=25mm,EA,3.62,Supplier FinishesPlus,32
+PRT-001036,Screw,Steel,Steel Screw M4x16,Dia=4mm;Len=16mm,EA,0.04,Supplier FastenPro,13
+PRT-001037,Drawer Front,Bamboo,Bamboo Drawer Front 500x200x50mm,L=500mm;W=200mm;T=50mm,EA,4.76,Supplier TimberCo,7
+PRT-001038,Screw,Steel,Steel Screw M6x16,Dia=6mm;Len=16mm,EA,0.03,Supplier GlassLab,10
+PRT-001039,Beam,Birch Plywood,Birch Plywood Beam 600x120x15mm,L=600mm;W=120mm;T=15mm,EA,2.46,Supplier FinishesPlus,12
+PRT-001040,Drawer Front,Birch Plywood,Birch Plywood Drawer Front 400x200x18mm,L=400mm;W=200mm;T=18mm,EA,3.3,Supplier GlassLab,5
+PRT-001041,Glass Top,Tempered Glass,Tempered Glass Glass Top 600x500mm,L=600mm;W=500mm,EA,12.16,Supplier MetalWorks,4
+PRT-001042,Leg,Pine Wood,Pine Wood Leg 1400x60x50mm,L=1400mm;W=60mm;T=50mm,EA,5.46,Supplier MetalWorks,20
+PRT-001043,Bracket,Aluminum,Aluminum Bracket,,EA,6.23,Supplier EcoMaterials,16
+PRT-001044,Shelf,Bamboo,Bamboo Shelf 700x200x20mm,L=700mm;W=200mm;T=20mm,EA,2.82,Supplier EcoMaterials,10
+PRT-001045,Beam,MDF,MDF Beam 800x200x20mm,L=800mm;W=200mm;T=20mm,EA,1.5,Supplier HardwareHouse,29
+PRT-001046,Hinge,Steel,Steel Hinge,,EA,4.0,Supplier FinishesPlus,3
+PRT-001047,Caster Wheel,Steel,Steel Caster Wheel,,EA,8.11,Supplier FastenPro,23
+PRT-001048,Panel,Birch Plywood,Birch Plywood Panel 900x60x40mm,L=900mm;W=60mm;T=40mm,EA,1.95,Supplier FinishesPlus,17
+PRT-001049,Foam Insert,Foam,Foam Foam Insert 500x60x40mm,L=500mm;W=60mm;T=40mm,EA,1.73,Supplier EcoMaterials,8
+PRT-001050,Rail,Oak Wood,Oak Wood Rail 900x150x18mm,L=900mm;W=150mm;T=18mm,EA,4.97,Supplier MetalWorks,23
+PRT-001051,Beam,MDF,MDF Beam 1200x80x15mm,L=1200mm;W=80mm;T=15mm,EA,1.72,Supplier EcoMaterials,27
+PRT-001052,Screw,Steel,Steel Screw M8x16,Dia=8mm;Len=16mm,EA,0.04,Supplier GlassLab,26
+PRT-001053,Panel,Walnut Wood,Walnut Wood Panel 900x600x15mm,L=900mm;W=600mm;T=15mm,EA,6.93,Supplier GlassLab,32
+PRT-001054,Beam,MDF,MDF Beam 700x100x50mm,L=700mm;W=100mm;T=50mm,EA,1.91,Supplier FinishesPlus,10
+PRT-001055,Leg,Birch Plywood,Birch Plywood Leg 1000x80x18mm,L=1000mm;W=80mm;T=18mm,EA,2.62,Supplier FastenPro,29
+PRT-001056,Drawer Front,Birch Plywood,Birch Plywood Drawer Front 1600x80x50mm,L=1600mm;W=80mm;T=50mm,EA,7.16,Supplier EcoMaterials,23
+PRT-001057,Shelf,Birch Plywood,Birch Plywood Shelf 1000x150x40mm,L=1000mm;W=150mm;T=40mm,EA,2.62,Supplier UpholsteryHub,2
+PRT-001058,Fabric Cover,Fabric,Fabric Fabric Cover 1200x800mm,L=1200mm;W=800mm,EA,7.39,Supplier MetalWorks,11
+PRT-001059,Panel,Birch Plywood,Birch Plywood Panel 1400x200x30mm,L=1400mm;W=200mm;T=30mm,EA,5.02,Supplier MetalWorks,3
+PRT-001060,Backboard,Pine Wood,Pine Wood Backboard 600x80x12mm,L=600mm;W=80mm;T=12mm,EA,1.05,Supplier EcoMaterials,21
+PRT-001061,Slider,Acrylic,Acrylic Slider,,EA,16.98,Supplier GlassLab,32
+PRT-001062,Bracket,Aluminum,Aluminum Bracket,,EA,9.96,Supplier HardwareHouse,18
+PRT-001063,Panel,Pine Wood,Pine Wood Panel 600x200x20mm,L=600mm;W=200mm;T=20mm,EA,1.72,Supplier TimberCo,2
+PRT-001064,Shelf,Walnut Wood,Walnut Wood Shelf 1000x120x15mm,L=1000mm;W=120mm;T=15mm,EA,6.87,Supplier FastenPro,27
+PRT-001065,Hinge,Steel,Steel Hinge,,EA,8.32,Supplier EcoMaterials,3
+PRT-001066,Leg,Oak Wood,Oak Wood Leg 1200x150x25mm,L=1200mm;W=150mm;T=25mm,EA,6.42,Supplier GlassLab,14
+PRT-001067,Leg,Oak Wood,Oak Wood Leg 900x60x8mm,L=900mm;W=60mm;T=8mm,EA,4.64,Supplier UpholsteryHub,34
+PRT-001068,Fabric Cover,Fabric,Fabric Fabric Cover 1000x900mm,L=1000mm;W=900mm,EA,3.5,Supplier EcoMaterials,13
+PRT-001069,Foam Insert,Foam,Foam Foam Insert 1000x60x30mm,L=1000mm;W=60mm;T=30mm,EA,2.7,Supplier HardwareHouse,19
+PRT-001070,Rail,Oak Wood,Oak Wood Rail 1000x200x20mm,L=1000mm;W=200mm;T=20mm,EA,3.95,Supplier FinishesPlus,17
+PRT-001071,Nut,Steel,Steel Nut M10,Dia=10mm,EA,0.05,Supplier EcoMaterials,26
+PRT-001072,Panel,Birch Plywood,Birch Plywood Panel 700x120x20mm,L=700mm;W=120mm;T=20mm,EA,4.0,Supplier UpholsteryHub,18
+PRT-001073,Nut,Steel,Steel Nut M3,Dia=3mm,EA,0.01,Supplier HardwareHouse,4
+PRT-001074,Glass Top,Tempered Glass,Tempered Glass Glass Top 1000x700mm,L=1000mm;W=700mm,EA,24.14,Supplier PrimeSupply,24
+PRT-001075,Screw,Stainless Steel,Stainless Steel Screw M4x20,Dia=4mm;Len=20mm,EA,0.06,Supplier MetalWorks,5
+PRT-001076,Varnish Can,Varnish,Varnish Varnish Can 1L,Volume=1L,EA,7.71,Supplier EcoMaterials,34
+PRT-001077,Leg,Birch Plywood,Birch Plywood Leg 500x60x18mm,L=500mm;W=60mm;T=18mm,EA,4.4,Supplier GlassLab,20
+PRT-001078,Screw,Steel,Steel Screw M6x20,Dia=6mm;Len=20mm,EA,0.04,Supplier EcoMaterials,27
+PRT-001079,Hinge,ABS Plastic,ABS Plastic Hinge,,EA,6.16,Supplier UpholsteryHub,30
+PRT-001080,Leg,Bamboo,Bamboo Leg 800x150x15mm,L=800mm;W=150mm;T=15mm,EA,3.51,Supplier UpholsteryHub,20
+PRT-001081,Panel,Birch Plywood,Birch Plywood Panel 600x200x25mm,L=600mm;W=200mm;T=25mm,EA,6.49,Supplier MetalWorks,4
+PRT-001082,Bolt,Steel,Steel Bolt M6x30,Dia=6mm;Len=30mm,EA,0.11,Supplier PrimeSupply,26
+PRT-001083,Beam,MDF,MDF Beam 1800x500x30mm,L=1800mm;W=500mm;T=30mm,EA,4.81,Supplier MetalWorks,32
+PRT-001084,Bolt,Steel,Steel Bolt M6x40,Dia=6mm;Len=40mm,EA,0.1,Supplier TimberCo,29
+PRT-001085,Panel,Bamboo,Bamboo Panel 1600x120x40mm,L=1600mm;W=120mm;T=40mm,EA,4.0,Supplier UpholsteryHub,14
+PRT-001086,Beam,Birch Plywood,Birch Plywood Beam 1600x500x8mm,L=1600mm;W=500mm;T=8mm,EA,3.32,Supplier MetalWorks,20
+PRT-001087,Leg,MDF,MDF Leg 800x40x18mm,L=800mm;W=40mm;T=18mm,EA,1.69,Supplier PrimeSupply,30
+PRT-001088,Leg,Birch Plywood,Birch Plywood Leg 300x500x8mm,L=300mm;W=500mm;T=8mm,EA,2.42,Supplier FinishesPlus,20
+PRT-001089,Handle,ABS Plastic,ABS Plastic Handle,,EA,3.81,Supplier PlastiCraft,16
+PRT-001090,Leg,Pine Wood,Pine Wood Leg 300x80x25mm,L=300mm;W=80mm;T=25mm,EA,3.06,Supplier FinishesPlus,20
+PRT-001091,Screw,Brass,Brass Screw M8x20,Dia=8mm;Len=20mm,EA,0.1,Supplier PrimeSupply,33
+PRT-001092,Shelf,Birch Plywood,Birch Plywood Shelf 1000x200x20mm,L=1000mm;W=200mm;T=20mm,EA,2.38,Supplier MetalWorks,14
+PRT-001093,Foam Insert,Foam,Foam Foam Insert 900x100x60mm,L=900mm;W=100mm;T=60mm,EA,2.34,Supplier FinishesPlus,22
+PRT-001094,Screw,Steel,Steel Screw M5x20,Dia=5mm;Len=20mm,EA,0.07,Supplier MetalWorks,30
+PRT-001095,Bolt,Steel,Steel Bolt M3x40,Dia=3mm;Len=40mm,EA,0.1,Supplier HardwareHouse,24
+PRT-001096,Foam Insert,Foam,Foam Foam Insert 1600x150x50mm,L=1600mm;W=150mm;T=50mm,EA,3.67,Supplier MetalWorks,24
+PRT-001097,Panel,MDF,MDF Panel 400x800x8mm,L=400mm;W=800mm;T=8mm,EA,1.83,Supplier PrimeSupply,7
+PRT-001098,Screw,Steel,Steel Screw M8x20,Dia=8mm;Len=20mm,EA,0.11,Supplier GlassLab,33
+PRT-001099,Panel,Birch Plywood,Birch Plywood Panel 300x300x30mm,L=300mm;W=300mm;T=30mm,EA,3.13,Supplier MetalWorks,31
+PRT-001100,Screw,Steel,Steel Screw M10x20,Dia=10mm;Len=20mm,EA,0.12,Supplier HardwareHouse,12
+PRT-001101,Glass Top,Tempered Glass,Tempered Glass Glass Top 1600x600mm,L=1600mm;W=600mm,EA,21.52,Supplier UpholsteryHub,21
+PRT-001102,Slider,Steel,Steel Slider,,EA,10.99,Supplier HardwareHouse,34
+PRT-001103,Backboard,Oak Wood,Oak Wood Backboard 1800x120x18mm,L=1800mm;W=120mm;T=18mm,EA,3.17,Supplier MetalWorks,17
+PRT-001104,Washer,Steel,Steel Washer M6,Dia=6mm,EA,0.02,Supplier PlastiCraft,18
+PRT-001105,Fabric Cover,Fabric,Fabric Fabric Cover 1500x700mm,L=1500mm;W=700mm,EA,8.43,Supplier MetalWorks,10
+PRT-001106,Bolt,Steel,Steel Bolt M4x25,Dia=4mm;Len=25mm,EA,0.09,Supplier PlastiCraft,8
+PRT-001107,Screw,Stainless Steel,Stainless Steel Screw M5x10,Dia=5mm;Len=10mm,EA,0.04,Supplier MetalWorks,17
+PRT-001108,Fabric Cover,Fabric,Fabric Fabric Cover 1200x700mm,L=1200mm;W=700mm,EA,5.9,Supplier PlastiCraft,29
+PRT-001109,Panel,Birch Plywood,Birch Plywood Panel 1600x200x50mm,L=1600mm;W=200mm;T=50mm,EA,5.67,Supplier EcoMaterials,21
+PRT-001110,Screw,Steel,Steel Screw M8x25,Dia=8mm;Len=25mm,EA,0.07,Supplier FastenPro,27
+PRT-001111,Handle,Steel,Steel Handle,,EA,7.74,Supplier MetalWorks,29
+PRT-001112,Washer,Steel,Steel Washer M4,Dia=4mm,EA,0.01,Supplier EcoMaterials,32
+PRT-001113,Leg,Bamboo,Bamboo Leg 1000x150x25mm,L=1000mm;W=150mm;T=25mm,EA,5.42,Supplier TimberCo,11
+PRT-001114,Screw,Steel,Steel Screw M3x50,Dia=3mm;Len=50mm,EA,0.1,Supplier FastenPro,26
+PRT-001115,Panel,Birch Plywood,Birch Plywood Panel 1000x120x18mm,L=1000mm;W=120mm;T=18mm,EA,2.3,Supplier FinishesPlus,2
+PRT-001116,Screw,Steel,Steel Screw M5x25,Dia=5mm;Len=25mm,EA,0.06,Supplier FinishesPlus,30
+PRT-001117,Feet Pad,ABS Plastic,ABS Plastic Feet Pad,,EA,2.19,Supplier PrimeSupply,18
+PRT-001118,Shelf,MDF,MDF Shelf 400x150x20mm,L=400mm;W=150mm;T=20mm,EA,1.21,Supplier TimberCo,8
+PRT-001119,Washer,Stainless Steel,Stainless Steel Washer M5,Dia=5mm,EA,0.02,Supplier GlassLab,21
+PRT-001120,Screw,Steel,Steel Screw M6x40,Dia=6mm;Len=40mm,EA,0.08,Supplier FinishesPlus,23
+PRT-001121,Leg,Pine Wood,Pine Wood Leg 1200x80x18mm,L=1200mm;W=80mm;T=18mm,EA,2.23,Supplier PlastiCraft,6
+PRT-001122,Hinge,Steel,Steel Hinge,,EA,6.63,Supplier EcoMaterials,28
+PRT-001123,Rail,MDF,MDF Rail 800x150x12mm,L=800mm;W=150mm;T=12mm,EA,2.32,Supplier EcoMaterials,26
+PRT-001124,Panel,Bamboo,Bamboo Panel 500x300x18mm,L=500mm;W=300mm;T=18mm,EA,2.7,Supplier MetalWorks,26
+PRT-001125,Shelf,MDF,MDF Shelf 1200x150x20mm,L=1200mm;W=150mm;T=20mm,EA,2.06,Supplier FinishesPlus,33
+PRT-001126,Backboard,Pine Wood,Pine Wood Backboard 900x500x40mm,L=900mm;W=500mm;T=40mm,EA,2.74,Supplier TimberCo,14
+PRT-001127,Handle,Aluminum,Aluminum Handle,,EA,11.84,Supplier UpholsteryHub,29
+PRT-001128,Hinge,Acrylic,Acrylic Hinge,,EA,7.95,Supplier TimberCo,34
+PRT-001129,Washer,Steel,Steel Washer M6,Dia=6mm,EA,0.01,Supplier PlastiCraft,7
+PRT-001130,Drawer Front,MDF,MDF Drawer Front 500x40x40mm,L=500mm;W=40mm;T=40mm,EA,3.12,Supplier HardwareHouse,30
+PRT-001131,Rail,Birch Plywood,Birch Plywood Rail 900x200x25mm,L=900mm;W=200mm;T=25mm,EA,2.79,Supplier PrimeSupply,8
+PRT-001132,Hinge,ABS Plastic,ABS Plastic Hinge,,EA,7.8,Supplier PlastiCraft,15
+PRT-001133,Backboard,Pine Wood,Pine Wood Backboard 200x60x20mm,L=200mm;W=60mm;T=20mm,EA,1.05,Supplier FastenPro,5
+PRT-001134,Beam,Birch Plywood,Birch Plywood Beam 600x40x40mm,L=600mm;W=40mm;T=40mm,EA,2.38,Supplier PrimeSupply,16
+PRT-001135,Handle,Polypropylene,Polypropylene Handle,,EA,1.86,Supplier HardwareHouse,21
+PRT-001136,Beam,Pine Wood,Pine Wood Beam 1000x150x15mm,L=1000mm;W=150mm;T=15mm,EA,2.05,Supplier EcoMaterials,13
+PRT-001137,Shelf,Oak Wood,Oak Wood Shelf 700x300x18mm,L=700mm;W=300mm;T=18mm,EA,2.71,Supplier GlassLab,18
+PRT-001138,Shelf,Bamboo,Bamboo Shelf 1000x400x15mm,L=1000mm;W=400mm;T=15mm,EA,3.16,Supplier PrimeSupply,22
+PRT-001139,Backboard,Pine Wood,Pine Wood Backboard 300x40x12mm,L=300mm;W=40mm;T=12mm,EA,1.86,Supplier FastenPro,19
+PRT-001140,Backboard,Pine Wood,Pine Wood Backboard 400x40x8mm,L=400mm;W=40mm;T=8mm,EA,1.29,Supplier GlassLab,23
+PRT-001141,Beam,MDF,MDF Beam 2000x150x8mm,L=2000mm;W=150mm;T=8mm,EA,2.05,Supplier EcoMaterials,18
+PRT-001142,Foam Insert,Foam,Foam Foam Insert 2000x300x30mm,L=2000mm;W=300mm;T=30mm,EA,2.8,Supplier FinishesPlus,17
+PRT-001143,Leg,Walnut Wood,Walnut Wood Leg 900x600x8mm,L=900mm;W=600mm;T=8mm,EA,7.37,Supplier FinishesPlus,7
+PRT-001144,Leg,Oak Wood,Oak Wood Leg 700x600x18mm,L=700mm;W=600mm;T=18mm,EA,8.35,Supplier FastenPro,7
+PRT-001145,Leg,Pine Wood,Pine Wood Leg 900x100x15mm,L=900mm;W=100mm;T=15mm,EA,2.45,Supplier GlassLab,2
+PRT-001146,Caster Wheel,Steel,Steel Caster Wheel,,EA,6.4,Supplier EcoMaterials,34
+PRT-001147,Beam,Pine Wood,Pine Wood Beam 800x200x18mm,L=800mm;W=200mm;T=18mm,EA,1.54,Supplier TimberCo,24
+PRT-001148,Bolt,Steel,Steel Bolt M6x40,Dia=6mm;Len=40mm,EA,0.14,Supplier MetalWorks,14
+PRT-001149,Nut,Steel,Steel Nut M3,Dia=3mm,EA,0.01,Supplier FinishesPlus,27
+PRT-001150,Screw,Stainless Steel,Stainless Steel Screw M5x16,Dia=5mm;Len=16mm,EA,0.05,Supplier EcoMaterials,29
+PRT-001151,Screw,Brass,Brass Screw M6x50,Dia=6mm;Len=50mm,EA,0.22,Supplier PlastiCraft,33
+PRT-001152,Bracket,Acrylic,Acrylic Bracket,,EA,2.73,Supplier FastenPro,20
+PRT-001153,Glass Top,Tempered Glass,Tempered Glass Glass Top 1200x500mm,L=1200mm;W=500mm,EA,20.62,Supplier GlassLab,33
+PRT-001154,Washer,Steel,Steel Washer M4,Dia=4mm,EA,0.01,Supplier FinishesPlus,17
+PRT-001155,Washer,Steel,Steel Washer M4,Dia=4mm,EA,0.02,Supplier UpholsteryHub,5
+PRT-001156,Rail,Birch Plywood,Birch Plywood Rail 800x400x15mm,L=800mm;W=400mm;T=15mm,EA,3.77,Supplier MetalWorks,28
+PRT-001157,Washer,Steel,Steel Washer M6,Dia=6mm,EA,0.01,Supplier PrimeSupply,20
+PRT-001158,Slider,Steel,Steel Slider,,EA,9.5,Supplier FastenPro,4
+PRT-001159,Shelf,Birch Plywood,Birch Plywood Shelf 1000x200x40mm,L=1000mm;W=200mm;T=40mm,EA,3.3,Supplier PrimeSupply,24
+PRT-001160,Bolt,Steel,Steel Bolt M8x60,Dia=8mm;Len=60mm,EA,0.33,Supplier MetalWorks,23
+PRT-001161,Beam,Pine Wood,Pine Wood Beam 1600x120x20mm,L=1600mm;W=120mm;T=20mm,EA,3.12,Supplier UpholsteryHub,18
+PRT-001162,Panel,Birch Plywood,Birch Plywood Panel 1800x200x25mm,L=1800mm;W=200mm;T=25mm,EA,3.9,Supplier PlastiCraft,12
+PRT-001163,Bracket,Stainless Steel,Stainless Steel Bracket,,EA,11.71,Supplier EcoMaterials,20
+PRT-001164,Varnish Can,Varnish,Varnish Varnish Can 1L,Volume=1L,EA,5.69,Supplier EcoMaterials,28
+PRT-001165,Screw,Steel,Steel Screw M6x40,Dia=6mm;Len=40mm,EA,0.08,Supplier PrimeSupply,5
+PRT-001166,Shelf,Pine Wood,Pine Wood Shelf 1000x60x12mm,L=1000mm;W=60mm;T=12mm,EA,1.73,Supplier EcoMaterials,4
+PRT-001167,Rail,Oak Wood,Oak Wood Rail 600x150x50mm,L=600mm;W=150mm;T=50mm,EA,4.7,Supplier FinishesPlus,9
+PRT-001168,Drawer Front,MDF,MDF Drawer Front 1600x60x8mm,L=1600mm;W=60mm;T=8mm,EA,1.5,Supplier PlastiCraft,12
+PRT-001169,Handle,ABS Plastic,ABS Plastic Handle,,EA,3.1,Supplier MetalWorks,16
+PRT-001170,Foam Insert,Foam,Foam Foam Insert 200x40x80mm,L=200mm;W=40mm;T=80mm,EA,2.55,Supplier FastenPro,24
+PRT-001171,Washer,Stainless Steel,Stainless Steel Washer M6,Dia=6mm,EA,0.04,Supplier PrimeSupply,15
+PRT-001172,Leg,Bamboo,Bamboo Leg 1200x100x20mm,L=1200mm;W=100mm;T=20mm,EA,3.18,Supplier PrimeSupply,21
+PRT-001173,Foam Insert,Foam,Foam Foam Insert 600x150x100mm,L=600mm;W=150mm;T=100mm,EA,2.12,Supplier FastenPro,23
+PRT-001174,Panel,Walnut Wood,Walnut Wood Panel 1800x200x8mm,L=1800mm;W=200mm;T=8mm,EA,10.85,Supplier UpholsteryHub,19
+PRT-001175,Bolt,Brass,Brass Bolt M6x16,Dia=6mm;Len=16mm,EA,0.09,Supplier PrimeSupply,26
+PRT-001176,Backboard,Pine Wood,Pine Wood Backboard 700x60x12mm,L=700mm;W=60mm;T=12mm,EA,1.26,Supplier PrimeSupply,18
+PRT-001177,Drawer Front,Pine Wood,Pine Wood Drawer Front 1200x150x30mm,L=1200mm;W=150mm;T=30mm,EA,3.42,Supplier GlassLab,22
+PRT-001178,Shelf,Walnut Wood,Walnut Wood Shelf 800x150x20mm,L=800mm;W=150mm;T=20mm,EA,5.26,Supplier TimberCo,22
+PRT-001179,Drawer Front,MDF,MDF Drawer Front 400x300x20mm,L=400mm;W=300mm;T=20mm,EA,1.97,Supplier EcoMaterials,26
+PRT-001180,Beam,Pine Wood,Pine Wood Beam 600x120x20mm,L=600mm;W=120mm;T=20mm,EA,2.09,Supplier FinishesPlus,21
+PRT-001181,Varnish Can,Varnish,Varnish Varnish Can 1L,Volume=1L,EA,8.4,Supplier PrimeSupply,25
+PRT-001182,Shelf,Oak Wood,Oak Wood Shelf 1200x400x50mm,L=1200mm;W=400mm;T=50mm,EA,9.49,Supplier PlastiCraft,13
+PRT-001183,Drawer Front,MDF,MDF Drawer Front 1800x150x18mm,L=1800mm;W=150mm;T=18mm,EA,2.48,Supplier FastenPro,15
+PRT-001184,Bolt,Steel,Steel Bolt M3x20,Dia=3mm;Len=20mm,EA,0.05,Supplier HardwareHouse,7
+PRT-001185,Paint Can,Paint,Paint Paint Can 1L,Volume=1L,EA,4.13,Supplier GlassLab,14
+PRT-001186,Glue Bottle,Glue,Glue Glue Bottle 1L,Volume=1L,EA,1.59,Supplier PrimeSupply,13
+PRT-001187,Feet Pad,Acrylic,Acrylic Feet Pad,,EA,2.42,Supplier PlastiCraft,8
+PRT-001188,Bolt,Steel,Steel Bolt M3x40,Dia=3mm;Len=40mm,EA,0.08,Supplier UpholsteryHub,5
+PRT-001189,Panel,Birch Plywood,Birch Plywood Panel 900x80x18mm,L=900mm;W=80mm;T=18mm,EA,3.55,Supplier PrimeSupply,8
+PRT-001190,Panel,Birch Plywood,Birch Plywood Panel 300x150x15mm,L=300mm;W=150mm;T=15mm,EA,2.9,Supplier EcoMaterials,23
+PRT-001191,Handle,Steel,Steel Handle,,EA,6.68,Supplier FastenPro,34
+PRT-001192,Shelf,Pine Wood,Pine Wood Shelf 700x80x15mm,L=700mm;W=80mm;T=15mm,EA,2.17,Supplier UpholsteryHub,4
+PRT-001193,Slider,Aluminum,Aluminum Slider,,EA,15.11,Supplier PlastiCraft,6
+PRT-001194,Washer,Steel,Steel Washer M4,Dia=4mm,EA,0.02,Supplier UpholsteryHub,26
+PRT-001195,Washer,Brass,Brass Washer M4,Dia=4mm,EA,0.02,Supplier EcoMaterials,16
+PRT-001196,Screw,Stainless Steel,Stainless Steel Screw M10x50,Dia=10mm;Len=50mm,EA,0.21,Supplier UpholsteryHub,16
+PRT-001197,Hinge,Steel,Steel Hinge,,EA,6.44,Supplier MetalWorks,8
+PRT-001198,Hinge,Acrylic,Acrylic Hinge,,EA,6.49,Supplier MetalWorks,10
+PRT-001199,Washer,Steel,Steel Washer M8,Dia=8mm,EA,0.01,Supplier HardwareHouse,4
+PRT-001200,Drawer Front,Oak Wood,Oak Wood Drawer Front 800x200x40mm,L=800mm;W=200mm;T=40mm,EA,8.13,Supplier PrimeSupply,20
